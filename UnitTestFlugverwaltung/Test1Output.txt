@@ -1,0 +1,132 @@
+AB8437
+        1:30 PM
+        Dusseldorf (DUS)
+        Niki
+        A320 (OE-LED)
+        Departed 1:39 PM
+EW1747
+        3:25 PM
+        Dusseldorf (DUS)
+        Eurowings (Borussia Dortmund Livery)
+	A320 (D-AIZR)
+        Departed 3:30 PM
+AB8441
+        5:05 PM
+        Dusseldorf (DUS)
+        Niki
+        A320 (OE-LEG)
+        Departed 5:30 PM
+OS155
+        5:35 PM
+        Dusseldorf (DUS)
+        Austrian Airlines
+        A320 (OE-LBJ)
+        Departed 5:43 PM
+EW1749
+        8:00 PM
+        Dusseldorf (DUS)
+        Eurowings (Borussia Dortmund Livery)
+	A320 (D-AIZR)
+        Departed 8:10 PM
+AB8431
+        6:25 AM
+        Dusseldorf (DUS)
+        Niki
+        A321 (OE-LNZ)
+        Departed 6:51 AM
+OS151
+        7:05 AM
+        Dusseldorf (DUS)
+        Austrian Airlines
+        A320 (OE-LBT)
+        Departed 7:33 AM
+EW1751
+        9:30 AM
+        Dusseldorf (DUS)
+        Eurowings
+        A320 (D-AIZU)
+        Departed 9:43 AM
+AB8435
+        10:30 AM
+        Dusseldorf (DUS)
+        Niki
+        A319 (OE-LNA)
+        Departed 10:41 AM
+AB8437
+        1:30 PM
+        Dusseldorf (DUS)
+        Air Berlin
+        320
+        Estimated dep. 1:30 PM
+EW1747
+        3:25 PM
+        Dusseldorf (DUS)
+        Eurowings
+        32A
+        Estimated dep. 3:25 PM
+AB8437
+        1:30 PM
+        Dusseldorf (DUS)
+        Niki
+        A320 (OE-LED)
+        Departed 1:39 PM
+EW1747
+        3:25 PM
+        Dusseldorf (DUS)
+        Eurowings (Borussia Dortmund Livery)
+	A320 (D-AIZR)
+        Departed 3:30 PM
+AB8441
+        5:05 PM
+        Dusseldorf (DUS)
+        Niki
+        A320 (OE-LEG)
+        Departed 5:30 PM
+OS155
+        5:35 PM
+        Dusseldorf (DUS)
+        Austrian Airlines
+        A320 (OE-LBJ)
+        Departed 5:43 PM
+EW1749
+        8:00 PM
+        Dusseldorf (DUS)
+        Eurowings (Borussia Dortmund Livery)
+	A320 (D-AIZR)
+        Departed 8:10 PM
+AB8431
+        6:25 AM
+        Dusseldorf (DUS)
+        Niki
+        A321 (OE-LNZ)
+        Departed 6:51 AM
+OS151
+        7:05 AM
+        Dusseldorf (DUS)
+        Austrian Airlines
+        A320 (OE-LBT)
+        Departed 7:33 AM
+EW1751
+        9:30 AM
+        Dusseldorf (DUS)
+        Eurowings
+        A320 (D-AIZU)
+        Departed 9:43 AM
+AB8435
+        10:30 AM
+        Dusseldorf (DUS)
+        Niki
+        A319 (OE-LNA)
+        Departed 10:41 AM
+AB8437
+        1:30 PM
+        Dusseldorf (DUS)
+        Air Berlin
+        320
+        Estimated dep. 1:30 PM
+EW1747
+        3:25 PM
+        Dusseldorf (DUS)
+        Eurowings
+        32A
+        Estimated dep. 3:25 PM

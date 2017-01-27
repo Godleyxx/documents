@@ -1,0 +1,5651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Departures>
+  <Flug>
+    <Time>1:10 PM</Time>
+    <Flugnummer>LH1237</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>A319(D-AILK)</Maschine>
+    <Status>Departed 1:31PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:15 PM</Time>
+    <Flugnummer>PE103</Flugnummer>
+    <To>St. Gallen (ACH)</To>
+    <Fluglinie>People's Viennaline</Fluglinie>
+    <Maschine>E170 (OE-LMK)</Maschine>
+    <Status>Departed 12:55 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:15 PM</Time>
+    <Flugnummer>LG8856</Flugnummer>
+    <To>Luxembourg (LUX)</To>
+    <Fluglinie>Luxair</Fluglinie>
+    <Maschine>DH8D (LX-LQD)</Maschine>
+    <Status>Departed 1:19 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:20 PM</Time>
+    <Flugnummer>OS75</Flugnummer>
+    <To>Shanghai (PVG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>B772 (OE-LPB)</Maschine>
+    <Status>Departed 1:46 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:20 PM</Time>
+    <Flugnummer>LH2329</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>A320 (OE-LBZ)</Maschine>
+    <Status>Departed 1:36 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:25 PM</Time>
+    <Flugnummer>TK1900</Flugnummer>
+    <To>Istanbul (SAW)</To>
+    <Fluglinie>Turkish Airlines</Fluglinie>
+    <Maschine>B738 (TC-JGZ)</Maschine>
+    <Status>Departed 1:43 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:30 PM</Time>
+    <Flugnummer>EW5812</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Eurowings Europe</Fluglinie>
+    <Maschine>A320 (OE-IQA)</Maschine>
+    <Status>Departed 1:41 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:30 PM</Time>
+    <Flugnummer>AB8437</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A320 (OE-LED)</Maschine>
+    <Status>Departed 1:39 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:40 PM</Time>
+    <Flugnummer>OS57</Flugnummer>
+    <To>Hong Kong( HKG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>B772 (OE-LPC)</Maschine>
+    <Status>Departed 1:54 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:45 PM</Time>
+    <Flugnummer>U24852</Flugnummer>
+    <To>Naples (NAP)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>319 (G-EZDU)</Maschine>
+    <Status>Departed 1:58 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:45 PM</Time>
+    <Flugnummer>U24732</Flugnummer>
+    <To>Berlin (SXF)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A320 (G-EZWI)</Maschine>
+    <Status>Departed 2:02 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:10 PM</Time>
+    <Flugnummer>LH1239</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>A321 (D-AISH)</Maschine>
+    <Status>Departed 2:16 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:20 PM</Time>
+    <Flugnummer>TK1886</Flugnummer>
+    <To>Istanbul (IST)</To>
+    <Fluglinie>Turkish Airlines</Fluglinie>
+    <Maschine>A321 (TC-JSC)</Maschine>
+    <Status>Departed 2:42 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:25 PM</Time>
+    <Flugnummer>PC992</Flugnummer>
+    <To>Istanbul (SAW)</To>
+    <Fluglinie>Pegasus Airlines</Fluglinie>
+    <Maschine>B738 (TC-CPL)</Maschine>
+    <Status>Departed 2:37 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:25 PM</Time>
+    <Flugnummer>LO8194</Flugnummer>
+    <To>Tallinn (TLL)</To>
+    <Fluglinie>Nordica</Fluglinie>
+    <Maschine>CRJ7 (ES-ACE)</Maschine>
+    <Status>Departed 2:22 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:35 PM</Time>
+    <Flugnummer>LS852</Flugnummer>
+    <To>Edinburgh (EDI)</To>
+    <Fluglinie>Jet2</Fluglinie>
+    <Maschine>B733 (G-GDFE)</Maschine>
+    <Status>Departed 3:02 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:35 PM</Time>
+    <Flugnummer>BA701</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>British Airways</Fluglinie>
+    <Maschine>A320 (G-EUYF)</Maschine>
+    <Status>Departed 3:05 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:40 PM</Time>
+    <Flugnummer>LX1579</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Swiss (Star Alliance Livery)</Fluglinie>
+    <Maschine>A320 (HB-IJN)</Maschine>
+    <Status>Departed 3:33 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:55 PM</Time>
+    <Flugnummer>EK128</Flugnummer>
+    <To>Dubai (DXB)</To>
+    <Fluglinie>Emirates</Fluglinie>
+    <Maschine>A388 (A6-EES)</Maschine>
+    <Status>Departed 3:14 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:00 PM</Time>
+    <Flugnummer>TP1271</Flugnummer>
+    <To>Lisbon (LIS)</To>
+    <Fluglinie>TAP Portugal</Fluglinie>
+    <Maschine>A320 (CS-TQD)</Maschine>
+    <Status>Departed 4:01 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:00 PM</Time>
+    <Flugnummer>AB8756</Flugnummer>
+    <To>Milan (LIN)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNE)</Maschine>
+    <Status>Departed 3:08 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:00 PM</Time>
+    <Flugnummer>AB8608</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNC)</Maschine>
+    <Status>Departed 4:05 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:00 PM</Time>
+    <Flugnummer>AB8409</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNB)</Maschine>
+    <Status>Departed 3:11 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>OS373</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>SunExpress Deutschland</Fluglinie>
+    <Maschine>B738 (D-ASXD)</Maschine>
+    <Status>Departed 3:17 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>OS353</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDC)</Maschine>
+    <Status>Departed 3:18 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>OS113</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDF)</Maschine>
+    <Status>Departed 3:12 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>VY8711</Flugnummer>
+    <To>Barcelona (BCN)</To>
+    <Fluglinie>Vueling</Fluglinie>
+    <Maschine>A320 (EC-KHN)</Maschine>
+    <Status>Departed 3:51 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>OS353</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDC)</Maschine>
+    <Status>Departed 3:18 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:10 PM</Time>
+    <Flugnummer>OS303</Flugnummer>
+    <To>Copenhagen (CPH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBV)</Maschine>
+    <Status>Departed 3:32 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:10 PM</Time>
+    <Flugnummer>OS581</Flugnummer>
+    <To>Geneva (GVA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWI)</Maschine>
+    <Status>Departed 3:29 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:10 PM</Time>
+    <Flugnummer>OS131</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBN)</Maschine>
+    <Status>Departed 3:35 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS797</Flugnummer>
+    <To>Sofia (SOF)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWB)</Maschine>
+    <Status>Departed 3:37 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS513</Flugnummer>
+    <To>Milan (MXP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBW)</Maschine>
+    <Status>Departed 3:32 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS293</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance livery)</Fluglinie>
+    <Maschine>A320 (OE-LBX)</Maschine>
+    <Status>Departed 3:43 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS791</Flugnummer>
+    <To>Bucharest (OTP)</To>
+    <Fluglinie>Condor</Fluglinie>
+    <Maschine>A320 (D-AICG)</Maschine>
+    <Status>Departed 3:40 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>CA842</Flugnummer>
+    <To>Beijing (PEK)</To>
+    <Fluglinie>Air China</Fluglinie>
+    <Maschine>A333 (B-5957)</Maschine>
+    <Status>Departed 3:27 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:20 PM</Time>
+    <Flugnummer>OS563</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>A319 (OE-LDE)</Maschine>
+    <Status>Departed 3:45 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:20 PM</Time>
+    <Flugnummer>OS183</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F100 (OE-LVI)</Maschine>
+    <Status>Departed 3:43 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:20 PM</Time>
+    <Flugnummer>EW5808</Flugnummer>
+    <To>Nurnberg (NUE)</To>
+    <Fluglinie>Eurowings Europe</Fluglinie>
+    <Maschine>A320 (OE-IEW)</Maschine>
+    <Status>Departed 3:24 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:25 PM</Time>
+    <Flugnummer>EW1747</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Eurowings (Borussia Dortmund Livery)</Fluglinie>
+    <Maschine>A320 (D-AIZR)</Maschine>
+    <Status>Departed 3:30 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:25 PM</Time>
+    <Flugnummer>VY8547</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Vueling</Fluglinie>
+    <Maschine>A320 (EC-MBK)</Maschine>
+    <Status>Departed 3:28 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:35 PM</Time>
+    <Flugnummer>4U753</Flugnummer>
+    <To>Cologne (CGN)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A319 (D-AGWO)</Maschine>
+    <Status>Departed 3:47 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:35 PM</Time>
+    <Flugnummer>PS848</Flugnummer>
+    <To>Kiev (KBP)</To>
+    <Fluglinie>Ukraine International Airlines</Fluglinie>
+    <Maschine>E190 (UR-EMD)</Maschine>
+    <Status>Departed 3:54 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>4:00 PM</Time>
+    <Flugnummer>7L297</Flugnummer>
+    <To>Hahn (HHN)</To>
+    <Fluglinie>Silk Way West Airlines	</Fluglinie>
+    <Maschine>74N</Maschine>
+    <Status>Unknown</Status>
+  </Flug>
+  <Flug>
+    <Time>4:10 PM</Time>
+    <Flugnummer>U27946</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A320 (G-EZWR)</Maschine>
+    <Status>Departed 5:34 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>4:30 PM</Time>
+    <Flugnummer>4U2755</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A319 (D-AKNR)</Maschine>
+    <Status>Departed 5:13 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>4:35 PM</Time>
+    <Flugnummer>PE105</Flugnummer>
+    <To>St. Gallen (ACH)</To>
+    <Fluglinie>People's Viennaline</Fluglinie>
+    <Maschine>E170 (OE-LMK)</Maschine>
+    <Status>Departed 3:55 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>4:35 PM</Time>
+    <Flugnummer>U21486</Flugnummer>
+    <To>Geneva (GVA)</To>
+    <Fluglinie>EasyJet Switzerland</Fluglinie>
+    <Maschine>A319 (HB-JYI)</Maschine>
+    <Status>Departed 4:50 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>4:45 PM</Time>
+    <Flugnummer>OS735</Flugnummer>
+    <To>Belgrade (BEG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGG)</Maschine>
+    <Status>Departed 4:59 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>4:50 PM</Time>
+    <Flugnummer>LH2331</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>A320 (OE-LBZ)</Maschine>
+    <Status>Departed 4:57 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>4:55 PM</Time>
+    <Flugnummer>BA703</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>British Airways</Fluglinie>
+    <Maschine>A320 (G-EUUS)</Maschine>
+    <Status>Departed 5:10 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:05 PM</Time>
+    <Flugnummer>KL1848</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>KLM</Fluglinie>
+    <Maschine>B738 (PH-BXK)</Maschine>
+    <Status>Departed 5:16 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:05 PM</Time>
+    <Flugnummer>AB8441</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A320 (OE-LEG)</Maschine>
+    <Status>Departed 5:30 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:05 PM</Time>
+    <Flugnummer>AB8318</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A321 (OE-LES)</Maschine>
+    <Status>Departed 5:22 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:10 PM</Time>
+    <Flugnummer>OS677</Flugnummer>
+    <To>Zagreb (ZAG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGC)</Maschine>
+    <Status>Departed 5:43 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:10 PM</Time>
+    <Flugnummer>OS125</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBO)</Maschine>
+    <Status>Departed 5:26 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:15 PM</Time>
+    <Flugnummer>OS901</Flugnummer>
+    <To>Innsbruck (INN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFQ)</Maschine>
+    <Status>Departed 5:19 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:15 PM</Time>
+    <Flugnummer>OS375</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDA)</Maschine>
+    <Status>Departed 5:28 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:15 PM</Time>
+    <Flugnummer>OS939</Flugnummer>
+    <To>Klagenfurt (KLU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Departed 5:56 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:15 PM</Time>
+    <Flugnummer>OS407</Flugnummer>
+    <To>Lyon (LYS)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>E190 (OE-LWH)</Maschine>
+    <Status>Departed 5:28 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:15 PM</Time>
+    <Flugnummer>OS455</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A321 (OE-LBB)</Maschine>
+    <Status>Departed 5:31 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:20 PM</Time>
+    <Flugnummer>OS721</Flugnummer>
+    <To>Budapest (BUD)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDB)</Maschine>
+    <Status>Departed 5:38 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:20 PM</Time>
+    <Flugnummer>OS529</Flugnummer>
+    <To>Venice (VCE)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGD)</Maschine>
+    <Status>Departed 5:46 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:20 PM</Time>
+    <Flugnummer>OS417</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>A321 (OE-LBC)</Maschine>
+    <Status>Departed 5:55 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:25 PM</Time>
+    <Flugnummer>OS709</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBU)</Maschine>
+    <Status>Departed 5:35 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:25 PM</Time>
+    <Flugnummer>OS355</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBY)</Maschine>
+    <Status>Departed 5:42 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:25 PM</Time>
+    <Flugnummer>OS305</Flugnummer>
+    <To>Copenhagen (CPH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F100 (OE-LVM)</Maschine>
+    <Status>Departed 5:37 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:25 PM</Time>
+    <Flugnummer>OS977</Flugnummer>
+    <To>Graz (GRZ)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>DH8D (OE-LGO)</Maschine>
+    <Status>Departed 5:35 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:30 PM</Time>
+    <Flugnummer>OS187</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWM)</Maschine>
+    <Status>Departed 5:44 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:30 PM</Time>
+    <Flugnummer>OS171</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBT)</Maschine>
+    <Status>Departed 5:57 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:30 PM</Time>
+    <Flugnummer>OS115</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWA)</Maschine>
+    <Status>Departed 5:38 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:35 PM</Time>
+    <Flugnummer>OS575</Flugnummer>
+    <To>Geneva (GVA)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>E190 (OE-LWD)</Maschine>
+    <Status>Departed 5:48 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:35 PM</Time>
+    <Flugnummer>OS213</Flugnummer>
+    <To>Leipzig (LEJ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGA)</Maschine>
+    <Status>Departed 5:45 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:35 PM</Time>
+    <Flugnummer>OS155</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBJ)</Maschine>
+    <Status>Departed 5:43 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:40 PM</Time>
+    <Flugnummer>OS515</Flugnummer>
+    <To>Milan (MXP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWK)</Maschine>
+    <Status>Departed 5:50 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:40 PM</Time>
+    <Flugnummer>OS565</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBL)</Maschine>
+    <Status>Departed 6:10 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:45 PM</Time>
+    <Flugnummer>OS473</Flugnummer>
+    <To>Basel (BSL)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWL)</Maschine>
+    <Status>Departed 5:53 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:45 PM</Time>
+    <Flugnummer>OS631</Flugnummer>
+    <To>Warsaw (WAW)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFI)</Maschine>
+    <Status>Departed 5:50 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:45 PM</Time>
+    <Flugnummer>EW5832</Flugnummer>
+    <To>London (STN)</To>
+    <Fluglinie>Eurowings Europe</Fluglinie>
+    <Maschine>A320 (OE-IEU)</Maschine>
+    <Status>Departed 6:33 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:45 PM</Time>
+    <Flugnummer>OS63</Flugnummer>
+    <To>Beijing (PEK)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>B763 (OE-LAT)</Maschine>
+    <Status>Departed 7:38 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:50 PM</Time>
+    <Flugnummer>RO344</Flugnummer>
+    <To>Bucharest (OTP)</To>
+    <Fluglinie>Tarom</Fluglinie>
+    <Maschine>B737 (YR-BGI)</Maschine>
+    <Status>Departed 6:07 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:50 PM</Time>
+    <Flugnummer>QR184</Flugnummer>
+    <To>Doha (DOH)</To>
+    <Fluglinie>Qatar Airways</Fluglinie>
+    <Maschine>B788 (A7-BCW)</Maschine>
+    <Status>Departed 5:58 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:50 PM</Time>
+    <Flugnummer>EW5922</Flugnummer>
+    <To>Barcelona (BCN)</To>
+    <Fluglinie>Eurowings Europe	A320</Fluglinie>
+    <Maschine>(OE-IQA)</Maschine>
+    <Status>Departed 6:08 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:55 PM</Time>
+    <Flugnummer>KM515</Flugnummer>
+    <To>Luqa (MLA)</To>
+    <Fluglinie>Air Malta</Fluglinie>
+    <Maschine>A320 (9H-AEQ)</Maschine>
+    <Status>Departed 5:51 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:05 PM</Time>
+    <Flugnummer>SU2353</Flugnummer>
+    <To>Moscow (SVO)</To>
+    <Fluglinie>Aeroflot</Fluglinie>
+    <Maschine>A321 (VP-BEW)</Maschine>
+    <Status>Departed 6:25 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:05 PM</Time>
+    <Flugnummer>SN2906</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Brussels Airlines</Fluglinie>
+    <Maschine>A319 (OO-SSV)</Maschine>
+    <Status>Departed 6:35 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:05 PM</Time>
+    <Flugnummer>BA2659</Flugnummer>
+    <To>London (LGW)</To>
+    <Fluglinie>British Airways</Fluglinie>
+    <Maschine>A320 (G-GATP)</Maschine>
+    <Status>Departed 6:24 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:10 PM</Time>
+    <Flugnummer>LH1241</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>A321 (D-AIDQ)</Maschine>
+    <Status>Departed 6:20 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:25 PM</Time>
+    <Flugnummer>AB8497</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A320 (OE-LEU)</Maschine>
+    <Status>Departed 6:36 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:50 PM</Time>
+    <Flugnummer>U24462</Flugnummer>
+    <To>Lyon (LYS)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A319 (G-EZIY)</Maschine>
+    <Status>Departed 6:53 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:50 PM</Time>
+    <Flugnummer>BT434</Flugnummer>
+    <To>Riga (RIX)</To>
+    <Fluglinie>Air Baltic</Fluglinie>
+    <Maschine>DH8D (YL-BBW)</Maschine>
+    <Status>Departed 6:57 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:55 PM</Time>
+    <Flugnummer>EW5804</Flugnummer>
+    <To>Hannover (HAJ)</To>
+    <Fluglinie>Eurowings Europe</Fluglinie>
+    <Maschine>A320 (OE-IEW)</Maschine>
+    <Status>Departed 7:00 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:00 PM</Time>
+    <Flugnummer>LX1583</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Swiss</Fluglinie>
+    <Maschine>A343 (HB-JMK)</Maschine>
+    <Status>Departed 8:04 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:00 PM</Time>
+    <Flugnummer>AB8507</Flugnummer>
+    <To>Hannover (HAJ)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNB)</Maschine>
+    <Status>Departed 7:14 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:05 PM</Time>
+    <Flugnummer>AB8728</Flugnummer>
+    <To>Rome (FCO)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNA)</Maschine>
+    <Status>Departed 7:31 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:05 PM</Time>
+    <Flugnummer>AB8616</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNC)</Maschine>
+    <Status>Departed 8:22 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:10 PM</Time>
+    <Flugnummer>LH1243</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>A321 (D-AISI)</Maschine>
+    <Status>Departed 7:17 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 PM</Time>
+    <Flugnummer>AB875</Flugnummer>
+    <To>Milan (LIN)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNE)</Maschine>
+    <Status>Departed 7:17 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 PM</Time>
+    <Flugnummer>AY768</Flugnummer>
+    <To>Helsinki (HEL)</To>
+    <Fluglinie>Finnair</Fluglinie>
+    <Maschine>A320 (OH-LXD)</Maschine>
+    <Status>Departed 7:26 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:20 PM</Time>
+    <Flugnummer>TK1888</Flugnummer>
+    <To>Istanbul (IST)</To>
+    <Fluglinie>Turkish Airlines</Fluglinie>
+    <Maschine>A321 (TC-JSJ)</Maschine>
+    <Status>Departed 7:41 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:20 PM</Time>
+    <Flugnummer>AB8413</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A320 (OE-LED)</Maschine>
+    <Status>Departed 7:24 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:25 PM</Time>
+    <Flugnummer>RJ128</Flugnummer>
+    <To>Amman (AMM)</To>
+    <Fluglinie>Royal Jordanian</Fluglinie>
+    <Maschine>A319 (JY-AYM)</Maschine>
+    <Status>Departed 7:28 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:30 PM</Time>
+    <Flugnummer>IB3123</Flugnummer>
+    <To>Madrid (MAD)</To>
+    <Fluglinie>Iberia</Fluglinie>
+    <Maschine>A320 (EC-IEG)</Maschine>
+    <Status>Departed 10:29 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:35 PM</Time>
+    <Flugnummer>OU443</Flugnummer>
+    <To>Zagreb (ZAG)</To>
+    <Fluglinie>Croatia Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Canceled</Status>
+  </Flug>
+  <Flug>
+    <Time>7:35 PM</Time>
+    <Flugnummer>LO226</Flugnummer>
+    <To>Warsaw (WAW)</To>
+    <Fluglinie>LOT</Fluglinie>
+    <Maschine>E75S (SP-LIN)</Maschine>
+    <Status>Departed 8:32 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:40 PM</Time>
+    <Flugnummer>FB410</Flugnummer>
+    <To>Sofia (SOF)</To>
+    <Fluglinie>Bulgaria Air</Fluglinie>
+    <Maschine>A320 (LZ-FBC)</Maschine>
+    <Status>Departed 7:43 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:45 PM</Time>
+    <Flugnummer>OS117</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDD)</Maschine>
+    <Status>Departed 7:48 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:55 PM</Time>
+    <Flugnummer>PE107</Flugnummer>
+    <To>St. Gallen (ACH)</To>
+    <Fluglinie>Helvetic Airways</Fluglinie>
+    <Maschine>E190 (HB-JVP)</Maschine>
+    <Status>Departed 8:00 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:00 PM</Time>
+    <Flugnummer>4U7751</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A320 (D-AIQF)</Maschine>
+    <Status>Departed 8:12 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:00 PM</Time>
+    <Flugnummer>JP137</Flugnummer>
+    <To>Ljubljana (LJU)</To>
+    <Fluglinie>Adria Airways</Fluglinie>
+    <Maschine>CRJ9 (S5-AAO)</Maschine>
+    <Status>Departed 8:12 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:00 PM</Time>
+    <Flugnummer>EW1749</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Eurowings (Borussia Dortmund Livery)</Fluglinie>
+    <Maschine>A320 (D-AIZR)</Maschine>
+    <Status>Departed 8:10 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:05 PM</Time>
+    <Flugnummer>OS871</Flugnummer>
+    <To>Tehran (IKA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBQ)</Maschine>
+    <Status>Departed 8:31 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:05 PM</Time>
+    <Flugnummer>OS377</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>Austrian Airlines	</Fluglinie>
+    <Maschine>A320 (OE-LBW)</Maschine>
+    <Status>Departed 8:18 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:05 PM</Time>
+    <Flugnummer>OS711</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>DH8D (OE-LGO)</Maschine>
+    <Status>Departed 8:22 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:05 PM</Time>
+    <Flugnummer>OS457</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A321 (OE-LBF)</Maschine>
+    <Status>Departed 8:33 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:10 PM</Time>
+    <Flugnummer>OS517</Flugnummer>
+    <To>Milan (MXP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBN)</Maschine>
+    <Status>Departed 8:25 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:10 PM</Time>
+    <Flugnummer>OS567</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBI)</Maschine>
+    <Status>Departed 8:27 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:10 PM</Time>
+    <Flugnummer>OS973</Flugnummer>
+    <To>Graz (GRZ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGJ)</Maschine>
+    <Status>Departed 8:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:10 PM</Time>
+    <Flugnummer>OS127</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A321 (OE-LBD)</Maschine>
+    <Status>Departed 8:35 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:10 PM</Time>
+    <Flugnummer>AF1239</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Air France</Fluglinie>
+    <Maschine>A319 (F-GRHH)</Maschine>
+    <Status>Departed 8:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:15 PM</Time>
+    <Flugnummer>OS535</Flugnummer>
+    <To>Bologna (BLQ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDF)</Maschine>
+    <Status>Departed 8:36 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:15 PM</Time>
+    <Flugnummer>OS577</Flugnummer>
+    <To>Geneva (GVA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWB)</Maschine>
+    <Status>Departed 8:32 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:15 PM</Time>
+    <Flugnummer>OS179</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBV)</Maschine>
+    <Status>Departed 8:37 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:15 PM</Time>
+    <Flugnummer>OS767</Flugnummer>
+    <To>Bucharest (OTP)</To>
+    <Fluglinie>Condor</Fluglinie>
+    <Maschine>A320 (D-AICG)</Maschine>
+    <Status>Departed 8:53 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:20 PM</Time>
+    <Flugnummer>OS527</Flugnummer>
+    <To>Venice (VCE)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>A319 (OE-LDE)</Maschine>
+    <Status>Departed 8:41 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:20 PM</Time>
+    <Flugnummer>OS307</Flugnummer>
+    <To>Copenhagen (CPH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBK)</Maschine>
+    <Status>Departed 8:40 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:20 PM</Time>
+    <Flugnummer>LH2333</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>A320 (OE-LBZ)</Maschine>
+    <Status>Departed 8:40 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:20 PM</Time>
+    <Flugnummer>OS799</Flugnummer>
+    <To>Sofia (SOF)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance livery)</Fluglinie>
+    <Maschine>A320 (OE-LBX)</Maschine>
+    <Status>Departed 8:43 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:25 PM</Time>
+    <Flugnummer>4U755</Flugnummer>
+    <To>Cologne (CGN)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A320 (D-AIPT)</Maschine>
+    <Status>Departed 8:45 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:25 PM</Time>
+    <Flugnummer>OS859</Flugnummer>
+    <To>Tel Aviv (TLV)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBU)</Maschine>
+    <Status>Departed 8:51 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:25 PM</Time>
+    <Flugnummer>OS273</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>SunExpress Deutschland</Fluglinie>
+    <Maschine>B738 (D-ASXD)</Maschine>
+    <Status>Departed 8:42 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:30 PM</Time>
+    <Flugnummer>OS317</Flugnummer>
+    <To>Stockholm (ARN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWI)</Maschine>
+    <Status>Departed 8:50 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:30 PM</Time>
+    <Flugnummer>OS929</Flugnummer>
+    <To>Klagenfurt (KLU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGC)</Maschine>
+    <Status>Departed 8:38 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:35 PM</Time>
+    <Flugnummer>OS913</Flugnummer>
+    <To>Innsbruck (INN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGB)</Maschine>
+    <Status>Departed 8:46 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:35 PM</Time>
+    <Flugnummer>OS599</Flugnummer>
+    <To>Krakow (KRK)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDC)</Maschine>
+    <Status>Departed 8:42 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:40 PM</Time>
+    <Flugnummer>HV5294</Flugnummer>
+    <To>Rotterdam (RTM)</To>
+    <Fluglinie>Transavia</Fluglinie>
+    <Maschine>B737 (PH-XRX)</Maschine>
+    <Status>Departed 8:48 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:45 PM</Time>
+    <Flugnummer>U25354</Flugnummer>
+    <To>London (LGW)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A319 (G-EZIL)</Maschine>
+    <Status>Departed 9:32 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:50 PM</Time>
+    <Flugnummer>LG8858</Flugnummer>
+    <To>Luxembourg (LUX)</To>
+    <Fluglinie>Luxair</Fluglinie>
+    <Maschine>DH8D (LX-LGM)</Maschine>
+    <Status>Departed 8:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:55 PM</Time>
+    <Flugnummer>4U2757</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A320 (D-AIQE)</Maschine>
+    <Status>Departed 9:01 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:00 PM</Time>
+    <Flugnummer>U26082</Flugnummer>
+    <To>Bristol (BRS)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A320 (G-EZUT)</Maschine>
+    <Status>Departed 9:18 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:00 PM</Time>
+    <Flugnummer>JU605</Flugnummer>
+    <To>Belgrade (BEG)</To>
+    <Fluglinie>AirSERBIA</Fluglinie>
+    <Maschine>AT75 (YU-ALV)</Maschine>
+    <Status>Departed 9:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:05 PM</Time>
+    <Flugnummer>AB8415</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Air Berlin</Fluglinie>
+    <Maschine>B737 (D-AHXE)</Maschine>
+    <Status>Departed 9:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:15 PM</Time>
+    <Flugnummer>OS717</Flugnummer>
+    <To>Budapest (BUD)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGD)</Maschine>
+    <Status>Departed 9:25 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:30 PM</Time>
+    <Flugnummer>SN2908</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Brussels Airlines (Magritte Livery)</Fluglinie>
+    <Maschine>A320 (OO-SNC)</Maschine>
+    <Status>Departed 9:35 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:50 PM</Time>
+    <Flugnummer>9U868</Flugnummer>
+    <To>Chisinau (KIV)</To>
+    <Fluglinie>Air Moldova</Fluglinie>
+    <Maschine>E190 (ER-ECB)</Maschine>
+    <Status>Departed 10:04 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:50 PM</Time>
+    <Flugnummer>OS919</Flugnummer>
+    <To>Salzburg (SZG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F100 (OE-LVI)</Maschine>
+    <Status>Departed 9:48 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:00 PM</Time>
+    <Flugnummer>EK126</Flugnummer>
+    <To>Dubai (DXB)</To>
+    <Fluglinie>Emirates</Fluglinie>
+    <Maschine>B77W (A6-EGM)</Maschine>
+    <Status>Departed 10:19 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:15 PM</Time>
+    <Flugnummer>OS743</Flugnummer>
+    <To>Kosice (KSC)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWM)</Maschine>
+    <Status>Departed 10:23 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:20 PM</Time>
+    <Flugnummer>OS667</Flugnummer>
+    <To>Kiev (KBP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWA)</Maschine>
+    <Status>Departed 10:31 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:20 PM</Time>
+    <Flugnummer>OS957</Flugnummer>
+    <To>Linz (LNZ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGG)</Maschine>
+    <Status>Departed 10:22 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:20 PM</Time>
+    <Flugnummer>OS25</Flugnummer>
+    <To>Bangkok (BKK)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>B772 (OE-LPD)</Maschine>
+    <Status>Departed 11:31 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:20 PM</Time>
+    <Flugnummer>ET725</Flugnummer>
+    <To>Addis Ababa (ADD)</To>
+    <Fluglinie>Ethiopian Airlines</Fluglinie>
+    <Maschine>B788 (ET-AOQ)</Maschine>
+    <Status>Departed 12:30 </Status>
+  </Flug>
+  <Flug>
+    <Time>12:15 AM</Time>
+    <Flugnummer>SU2355</Flugnummer>
+    <To>Moscow (SVO)</To>
+    <Fluglinie>Aeroflot</Fluglinie>
+    <Maschine>A321 (VP-BTR)</Maschine>
+    <Status>Departed 12:25 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:10 AM</Time>
+    <Flugnummer>LH1247</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>A320 (D-AIQT)</Maschine>
+    <Status>Departed 6:35 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:15 AM</Time>
+    <Flugnummer>OS771</Flugnummer>
+    <To>Belgrade (BEG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFI)</Maschine>
+    <Status>Departed 6:29 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:20 AM</Time>
+    <Flugnummer>AB8401</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNC)</Maschine>
+    <Status>Departed 6:27 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:25 AM</Time>
+    <Flugnummer>AB8431</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A321 (OE-LNZ)</Maschine>
+    <Status>Departed 6:51 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:25 AM</Time>
+    <Flugnummer>OS215</Flugnummer>
+    <To>Leipzig (LEJ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGA)</Maschine>
+    <Status>Departed 6:53 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:30 AM</Time>
+    <Flugnummer>LX1585</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Helvetic Airways</Fluglinie>
+    <Maschine>E190 (HB-JVN)</Maschine>
+    <Status>Departed 6:48 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:30 AM</Time>
+    <Flugnummer>OS111</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines (Retro livery)</Fluglinie>
+    <Maschine>A320 (OE-LBP)</Maschine>
+    <Status>Departed 6:50 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:30 AM</Time>
+    <Flugnummer>AB8750</Flugnummer>
+    <To>Milan (LIN)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNA)</Maschine>
+    <Status>Departed 6:54 AM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:35 AM</Time>
+    <Flugnummer>OS915</Flugnummer>
+    <To>Innsbruck (INN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFQ)</Maschine>
+    <Status>Departed 6:59 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:35 AM</Time>
+    <Flugnummer>AB8720</Flugnummer>
+    <To>Rome (FCO)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNB)</Maschine>
+    <Status>Departed 6:58 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:35 AM</Time>
+    <Flugnummer>AB8491</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNE)</Maschine>
+    <Status>Departed 7:00 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:40 AM</Time>
+    <Flugnummer>EW5806</Flugnummer>
+    <To>Nurnberg (NUE)</To>
+    <Fluglinie>Eurowings Europe</Fluglinie>
+    <Maschine>A320 (OE-IQA)</Maschine>
+    <Status>Departed 7:05 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:40 AM</Time>
+    <Flugnummer>OS703</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGC)</Maschine>
+    <Status>Departed 7:12 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:40 AM</Time>
+    <Flugnummer>OS451</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBY)</Maschine>
+    <Status>Departed 7:01 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:45 AM</Time>
+    <Flugnummer>EW5900</Flugnummer>
+    <To>Fuerteventura (FUE)</To>
+    <Fluglinie>Eurowings Europe</Fluglinie>
+    <Maschine>A320 (OE-IEU)</Maschine>
+    <Status>Departed 7:06 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:45 AM</Time>
+    <Flugnummer>AB8501</Flugnummer>
+    <To>Hannover (HAJ)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A320 (OE-LEN)</Maschine>
+    <Status>Departed 6:57 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:50 AM</Time>
+    <Flugnummer>OS311</Flugnummer>
+    <To>Stockholm (ARN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E95</Maschine>
+    <Status>Departed 7:14 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:50 AM</Time>
+    <Flugnummer>ET724</Flugnummer>
+    <To>Stockholm (ARN)</To>
+    <Fluglinie>Ethiopian Airlines</Fluglinie>
+    <Maschine>B788 (ET-ATL)</Maschine>
+    <Status>Departed 6:56 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:55 AM</Time>
+    <Flugnummer>KL1838</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>KLM</Fluglinie>
+    <Maschine>B737 (PH-BGU)</Maschine>
+    <Status>Departed 7:41 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:55 AM</Time>
+    <Flugnummer>AB8600</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A320 (OE-LEG)</Maschine>
+    <Status>Departed 7:17 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:00 AM</Time>
+    <Flugnummer>OS681</Flugnummer>
+    <To>Zagreb (ZAG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGF)</Maschine>
+    <Status>Departed 7:24 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:00 AM</Time>
+    <Flugnummer>OS511</Flugnummer>
+    <To>Milan (MXP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDD)</Maschine>
+    <Status>Departed 7:16 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:00 AM</Time>
+    <Flugnummer>OS351</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDA)</Maschine>
+    <Status>Departed 7:19 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:00 AM</Time>
+    <Flugnummer>TK1890</Flugnummer>
+    <To>Istanbul (IST)</To>
+    <Fluglinie>Turkish Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>A320 (TC-JPS)</Maschine>
+    <Status>Departed 7:14 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:05 AM</Time>
+    <Flugnummer>OS805</Flugnummer>
+    <To>Sofia (SOF)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWK)</Maschine>
+    <Status>Departed 7:22 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:05 AM</Time>
+    <Flugnummer>OS151</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBT)</Maschine>
+    <Status>Departed 7:33 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:05 AM</Time>
+    <Flugnummer>OS371</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDB)</Maschine>
+    <Status>Departed 7:51 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:05 AM</Time>
+    <Flugnummer>OS411</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBO)</Maschine>
+    <Status>Departed 7:25 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:10 AM</Time>
+    <Flugnummer>OS301</Flugnummer>
+    <To>Copenhagen (CPH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBL)</Maschine>
+    <Status>Departed 7:31 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:10 AM</Time>
+    <Flugnummer>OS561</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBJ)</Maschine>
+    <Status>Departed 7:32 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:10 AM</Time>
+    <Flugnummer>OS271</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A321 (OE-LBB)</Maschine>
+    <Status>Departed 7:23 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:10 AM</Time>
+    <Flugnummer>OS403</Flugnummer>
+    <To>Lyon (LYS)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>DH8D (OE-LGO)</Maschine>
+    <Status>Departed 7:28 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:10 AM</Time>
+    <Flugnummer>OS121</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A321 (OE-LBE)</Maschine>
+    <Status>Departed 7:47 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 AM</Time>
+    <Flugnummer>OS789</Flugnummer>
+    <To>Bucharest (OTP)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>E190 (OE-LWH)</Maschine>
+    <Status>Departed 7:44 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 AM</Time>
+    <Flugnummer>OS571</Flugnummer>
+    <To>Geneva (GVA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E95</Maschine>
+    <Status>Departed 7:37 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 AM</Time>
+    <Flugnummer>OS177</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWM)</Maschine>
+    <Status>Departed 7:27 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 AM</Time>
+    <Flugnummer>OS191</Flugnummer>
+    <To>Cologne (CGN)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine> E190 (OE-LWD)</Maschine>
+    <Status>Departed 7:29 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:20 AM</Time>
+    <Flugnummer>OS175</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBQ)</Maschine>
+    <Status>Departed 7:38 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:20 AM</Time>
+    <Flugnummer>OS625</Flugnummer>
+    <To>Warsaw (WAW)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F100 (OE-LVM)</Maschine>
+    <Status>Departed 7:46 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:25 AM</Time>
+    <Flugnummer>EW5920</Flugnummer>
+    <To>Barcelona (BCN)</To>
+    <Fluglinie>Eurowings Europe</Fluglinie>
+    <Maschine>A320 (OE-IEW)</Maschine>
+    <Status>Departed 7:44 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:40 AM</Time>
+    <Flugnummer>OZ795</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Asiana Airlines</Fluglinie>
+    <Maschine>74Y</Maschine>
+    <Status>Unknown </Status>
+  </Flug>
+  <Flug>
+    <Time>7:50 AM</Time>
+    <Flugnummer>BA699</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>British Airways</Fluglinie>
+    <Maschine>A320 (G-EUUI)</Maschine>
+    <Status>Departed 8:20 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:10 AM</Time>
+    <Flugnummer>PE101</Flugnummer>
+    <To>St. Gallen (ACH)</To>
+    <Fluglinie>Helvetic Airways</Fluglinie>
+    <Maschine>E190 (HB-JVP)</Maschine>
+    <Status>Departed 8:21 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:10 AM</Time>
+    <Flugnummer>KE541</Flugnummer>
+    <To>Oslo (OSL)</To>
+    <Fluglinie>Korean Air Cargo</Fluglinie>
+    <Maschine>B77L (HL8076)</Maschine>
+    <Status>Departed 8:15 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:15 AM</Time>
+    <Flugnummer>OS471</Flugnummer>
+    <To>Basel (BSL)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGB)</Maschine>
+    <Status>Departed 8:24 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:55 AM</Time>
+    <Flugnummer>4U2759</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A319 (D-AKNI)</Maschine>
+    <Status>Departed 9:09 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:00 AM</Time>
+    <Flugnummer>4U757</Flugnummer>
+    <To>Cologne (CGN)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A319 (D-AGWP)</Maschine>
+    <Status>Departed 9:05 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:05 AM</Time>
+    <Flugnummer>4U7753</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A319 (D-AGWY)</Maschine>
+    <Status>Departed 9:08 AM</Status>
+  </Flug>
+  <Flug>
+    <Time>9:10 AM</Time>
+    <Flugnummer>LH1233</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>A321 (D-AISJ)</Maschine>
+    <Status>Departed 9:17 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:15 AM</Time>
+    <Flugnummer>RO342</Flugnummer>
+    <To>Bucharest (OTP)</To>
+    <Fluglinie>Tarom</Fluglinie>
+    <Maschine>A318 (YR-ASD)</Maschine>
+    <Status>Departed 9:28 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:15 AM</Time>
+    <Flugnummer>4U3751</Flugnummer>
+    <To>Hannover (HAJ)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A319 (D-AGWR)</Maschine>
+    <Status>Departed 9:23 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:25 AM</Time>
+    <Flugnummer>LH2327</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>A320 (OE-LBZ)</Maschine>
+    <Status>Departed 9:36 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:25 AM</Time>
+    <Flugnummer>LO224</Flugnummer>
+    <To>Warsaw (WAW)</To>
+    <Fluglinie>LOT</Fluglinie>
+    <Maschine>B734 (SP-LLE)</Maschine>
+    <Status>Departed 9:58 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:25 AM</Time>
+    <Flugnummer>JU601</Flugnummer>
+    <To>Belgrade (BEG)</To>
+    <Fluglinie>AirSERBIA</Fluglinie>
+    <Maschine>AT72 (YU-ALO)</Maschine>
+    <Status>Departed 9:41 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:30 AM</Time>
+    <Flugnummer>SN2902</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Brussels Airlines</Fluglinie>
+    <Maschine>A319 (OO-SSA)</Maschine>
+    <Status>Departed 9:48 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:30 AM</Time>
+    <Flugnummer>EW1751</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Eurowings</Fluglinie>
+    <Maschine>A320 (D-AIZU)</Maschine>
+    <Status>Departed 9:43 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:40 AM</Time>
+    <Flugnummer>LG8852</Flugnummer>
+    <To>Luxembourg (LUX)</To>
+    <Fluglinie>Luxair</Fluglinie>
+    <Maschine>DH8D (LX-LGM)</Maschine>
+    <Status>Departed 9:50 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:40 AM</Time>
+    <Flugnummer>LX1575</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Swiss</Fluglinie>
+    <Maschine>A321 (HB-IOL)</Maschine>
+    <Status>Departed 10:14 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:45 AM</Time>
+    <Flugnummer>OS903</Flugnummer>
+    <To>Innsbruck (INN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGD)</Maschine>
+    <Status>Departed 9:51 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:50 AM</Time>
+    <Flugnummer>OS687</Flugnummer>
+    <To>Minsk (MSQ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWI)</Maschine>
+    <Status>Departed 10:06 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:50 AM</Time>
+    <Flugnummer>OS713</Flugnummer>
+    <To>Budapest (BUD)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFJ)</Maschine>
+    <Status>Departed 10:11 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:50 AM</Time>
+    <Flugnummer>OS661</Flugnummer>
+    <To>Kiev (KBP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWA)</Maschine>
+    <Status>Departed 10:05 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:55 AM</Time>
+    <Flugnummer>OS705</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGJ)</Maschine>
+    <Status>Departed 10:04 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:00 AM</Time>
+    <Flugnummer>OS763</Flugnummer>
+    <To>Varna (VAR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWB)</Maschine>
+    <Status>Departed 10:19 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:00 AM</Time>
+    <Flugnummer>OS601</Flugnummer>
+    <To>Moscow (DME)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDF)</Maschine>
+    <Status>Departed 10:13 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:00 AM</Time>
+    <Flugnummer>OS833</Flugnummer>
+    <To>Vilnius (VNO)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFI)</Maschine>
+    <Status>Departed 10:34 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:00 AM</Time>
+    <Flugnummer>OS935</Flugnummer>
+    <To>Klagenfurt (KLU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGF)</Maschine>
+    <Status>Departed 10:07 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:05 AM</Time>
+    <Flugnummer>OS795</Flugnummer>
+    <To>Sofia (SOF)</To>
+    <Fluglinie>Condor</Fluglinie>
+    <Maschine>A320 (D-AICG)</Maschine>
+    <Status>Departed 10:20 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:05 AM</Time>
+    <Flugnummer>AF1139</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Air France</Fluglinie>
+    <Maschine>A319 (F-GRHY)</Maschine>
+    <Status>Departed 10:25 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:05 AM</Time>
+    <Flugnummer>OS829</Flugnummer>
+    <To>Arbil (EBL)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDC)</Maschine>
+    <Status>Departed 10:17 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:10 AM</Time>
+    <Flugnummer>OS65</Flugnummer>
+    <To>Chicago (ORD)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>B763 (OE-LAY)</Maschine>
+    <Status>Departed 10:31 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:10 AM</Time>
+    <Flugnummer>OU441</Flugnummer>
+    <To>Zagreb (ZAG)</To>
+    <Fluglinie>Croatia Airlines</Fluglinie>
+    <Maschine>DH8D (9A-CQA)</Maschine>
+    <Status>Departed 10:13 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:10 AM</Time>
+    <Flugnummer>OU441</Flugnummer>
+    <To>Zagreb (ZAG)</To>
+    <Fluglinie>Croatia Airlines</Fluglinie>
+    <Maschine>DH8D (9A-CQA)</Maschine>
+    <Status>Departed 10:13 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:10 AM</Time>
+    <Flugnummer>OS853</Flugnummer>
+    <To>Amman (AMM)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>A319 (OE-LDE)</Maschine>
+    <Status>Departed 10:28 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:15 AM</Time>
+    <Flugnummer>OS783</Flugnummer>
+    <To>Bucharest (OTP)</To>
+    <Fluglinie>SunExpress Deutschland</Fluglinie>
+    <Maschine>B738 (D-ASXD)</Maschine>
+    <Status>Departed 10:23 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:15 AM</Time>
+    <Flugnummer>OS23</Flugnummer>
+    <To>Havana (HAV)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>B763 (OE-LAZ)</Maschine>
+    <Status>Departed 12:27 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:15 AM</Time>
+    <Flugnummer>OS777</Flugnummer>
+    <To>Pristina (PRN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F100 (OE-LVE)</Maschine>
+    <Status>Departed 10:26 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:20 AM</Time>
+    <Flugnummer>OS779</Flugnummer>
+    <To>Skopje (SKP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F100 (OE-LVJ)</Maschine>
+    <Status>Departed 10:37 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:25 AM</Time>
+    <Flugnummer>JP285</Flugnummer>
+    <To>Ljubljana (LJU)</To>
+    <Fluglinie>Adria Airways</Fluglinie>
+    <Maschine>CRJ9 (S5-AAK)</Maschine>
+    <Status>Departed 10:22 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:25 AM</Time>
+    <Flugnummer>OS857</Flugnummer>
+    <To>Tel Aviv (TLV)</To>
+    <Fluglinie>Austrian Airlines (Retro livery)</Fluglinie>
+    <Maschine>A320 (OE-LBP)</Maschine>
+    <Status>Departed 10:35 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:25 AM</Time>
+    <Flugnummer>OS831</Flugnummer>
+    <To>Larnaca (LCA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBN)</Maschine>
+    <Status>Departed 10:58 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:25 AM</Time>
+    <Flugnummer>OS71</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>B763 (OE-LAX)</Maschine>
+    <Status>Departed 10:48 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:30 AM</Time>
+    <Flugnummer>AB8405</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNC)</Maschine>
+    <Status>Departed 10:43 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:30 AM</Time>
+    <Flugnummer>AB8435</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNA)</Maschine>
+    <Status>Departed 10:41 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:40 AM</Time>
+    <Flugnummer>RO348</Flugnummer>
+    <To>Cluj-Napoca (CLJ)</To>
+    <Fluglinie>Tarom</Fluglinie>
+    <Maschine>AT45 (YR-ATB)</Maschine>
+    <Status>Departed 10:50 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:45 AM</Time>
+    <Flugnummer>OS87</Flugnummer>
+    <To>New York (JFK)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>B763 (OE-LAW)</Maschine>
+    <Status>Departed 11:43 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:55 AM</Time>
+    <Flugnummer>TK1884</Flugnummer>
+    <To>Istanbul (IST)</To>
+    <Fluglinie>Turkish Airlines</Fluglinie>
+    <Maschine>A321 (TC-JTH)</Maschine>
+    <Status>Departed 11:02 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:00 AM</Time>
+    <Flugnummer>SU6604</Flugnummer>
+    <To>St. Petersburg (LED)</To>
+    <Fluglinie>Rossiya (FC Zenit St. Petersburg Livery)</Fluglinie>
+    <Maschine>A319 (VQ-BAS)</Maschine>
+    <Status>Departed 11:12 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:00 AM</Time>
+    <Flugnummer>CI64</Flugnummer>
+    <To>Taipei (TPE)</To>
+    <Fluglinie>China Airlines</Fluglinie>
+    <Maschine>A343 (B-18806)</Maschine>
+    <Status>Departed 11:10 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:00 AM</Time>
+    <Flugnummer>AB8604</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNE)</Maschine>
+    <Status>Departed 11:46 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:05 AM</Time>
+    <Flugnummer>PS846</Flugnummer>
+    <To>Kiev (KBP)</To>
+    <Fluglinie>Ukraine International Airlines</Fluglinie>
+    <Maschine>B733 (UR-GAH)</Maschine>
+    <Status>Departed 11:09 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:10 AM</Time>
+    <Flugnummer>LH1235</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa (Lu Sticker)</Fluglinie>
+    <Maschine>A319 (D-AILU)</Maschine>
+    <Status>Departed 11:19 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:10 AM</Time>
+    <Flugnummer>HG7086</Flugnummer>
+    <To>Abu Dhabi (AUH)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A320 (OE-LEY)</Maschine>
+    <Status>Departed 11:14 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:15 AM</Time>
+    <Flugnummer>AY766</Flugnummer>
+    <To>Helsinki (HEL)</To>
+    <Fluglinie>Finnair</Fluglinie>
+    <Maschine>A320 (OH-LXD)</Maschine>
+    <Status>Departed 11:17 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:20 AM</Time>
+    <Flugnummer>TU642</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Tunisair</Fluglinie>
+    <Maschine>736</Maschine>
+    <Status>Unknown </Status>
+  </Flug>
+  <Flug>
+    <Time>11:20 AM</Time>
+    <Flugnummer>TU643</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Tunisair</Fluglinie>
+    <Maschine>A319 (TS-IMJ)</Maschine>
+    <Status>Departed 11:52 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:25 AM</Time>
+    <Flugnummer>BA697</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>British Airways</Fluglinie>
+    <Maschine>A320 (G-EUYK)</Maschine>
+    <Status>Departed 11:34 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:35 AM</Time>
+    <Flugnummer>EI661</Flugnummer>
+    <To>Dublin (DUB)</To>
+    <Fluglinie>Aer Lingus</Fluglinie>
+    <Maschine>A320 (EI-DER)</Maschine>
+    <Status>Departed 11:41 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:40 AM</Time>
+    <Flugnummer>U21980</Flugnummer>
+    <To>Manchester (MAN)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A320 (G-EZPB)</Maschine>
+    <Status>Departed 11:39 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:00 PM</Time>
+    <Flugnummer>AB8726</Flugnummer>
+    <To>Rome (FCO)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNB)</Maschine>
+    <Status>Departed 12:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:10 PM</Time>
+    <Flugnummer>U25352</Flugnummer>
+    <To>London (LGW)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A319 (G-EZFA)</Maschine>
+    <Status>Departed 12:36 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:10 PM</Time>
+    <Flugnummer>OS123</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDD)</Maschine>
+    <Status>Departed 12:37 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:15 PM</Time>
+    <Flugnummer>U24732</Flugnummer>
+    <To>Berlin (SXF)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A319 (G-EZGD)</Maschine>
+    <Status>Departed 12:15 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:15 PM</Time>
+    <Flugnummer>KL1846</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>KLM</Fluglinie>
+    <Maschine>B737 (PH-BGU)</Maschine>
+    <Status>Unknown </Status>
+  </Flug>
+  <Flug>
+    <Time>12:30 PM</Time>
+    <Flugnummer>IB3121</Flugnummer>
+    <To>Madrid (MAD)</To>
+    <Fluglinie>Iberia</Fluglinie>
+    <Maschine>A319 (EC-JDL)</Maschine>
+    <Status>Estimated dep. 12:30 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:35 PM</Time>
+    <Flugnummer>OS425</Flugnummer>
+    <To>Nice (NCE)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWL)</Maschine>
+    <Status>Departed 12:32 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:40 PM</Time>
+    <Flugnummer>OS359</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>E190 (OE-LWH)</Maschine>
+    <Status>Departed 12:38 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:40 PM</Time>
+    <Flugnummer>OS655</Flugnummer>
+    <To>Chisinau (KIV)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBW)</Maschine>
+    <Status>Departed 12:50 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:45 PM</Time>
+    <Flugnummer>OS727</Flugnummer>
+    <To>Podgorica (TGD)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGC)</Maschine>
+    <Status>Departed 1:01 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:45 PM</Time>
+    <Flugnummer>OS597</Flugnummer>
+    <To>Krakow (KRK)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGF)</Maschine>
+    <Status>Departed 12:57 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:45 PM</Time>
+    <Flugnummer>OS847</Flugnummer>
+    <To>Tirana (TIA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBL)</Maschine>
+    <Status>Departed 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS683</Flugnummer>
+    <To>Zagreb (ZAG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGA)</Maschine>
+    <Status>Departed 12:57 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS313</Flugnummer>
+    <To>Stockholm (ARN)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>E190 (OE-LWD)</Maschine>
+    <Status>Departed 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS785</Flugnummer>
+    <To>Sibiu (SBZ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:50 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS757</Flugnummer>
+    <To>Sarajevo (SJJ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBT)</Maschine>
+    <Status>Estimated dep. 12:50 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS741</Flugnummer>
+    <To>Kosice (KSC)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS707</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS905</Flugnummer>
+    <To>Innsbruck (INN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS773</Flugnummer>
+    <To>Belgrade (BEG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWG)</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:00 PM</Time>
+    <Flugnummer>OS415</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDA)</Maschine>
+    <Status>Estimated dep. 1:00 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:00 PM</Time>
+    <Flugnummer>OS623</Flugnummer>
+    <To>Warsaw (WAW)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFQ)</Maschine>
+    <Status>Departed 1:01 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:00 PM</Time>
+    <Flugnummer>SU2185</Flugnummer>
+    <To>Moscow (SVO)</To>
+    <Fluglinie>Aeroflot</Fluglinie>
+    <Maschine>A321 (VQ-BEF)</Maschine>
+    <Status>Estimated dep. 12:58 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS313</Flugnummer>
+    <To>Stockholm (ARN)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>E190 (OE-LWD)</Maschine>
+    <Status>Departed 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS683</Flugnummer>
+    <To>Zagreb (ZAG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGA)</Maschine>
+    <Status>Departed 12:57 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS757</Flugnummer>
+    <To>Sarajevo (SJJ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBT)</Maschine>
+    <Status>Estimated dep. 12:50 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS785</Flugnummer>
+    <To>Sibiu (SBZ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:50 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS905</Flugnummer>
+    <To>Innsbruck (INN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS773</Flugnummer>
+    <To>Belgrade (BEG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWG)</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS707</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS741</Flugnummer>
+    <To>Kosice (KSC)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:00 PM</Time>
+    <Flugnummer>OS415</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDA)</Maschine>
+    <Status>Estimated dep. 1:00 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:00 PM</Time>
+    <Flugnummer>OS623</Flugnummer>
+    <To>Warsaw (WAW)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFQ)</Maschine>
+    <Status>Departed 1:01 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:00 PM</Time>
+    <Flugnummer>SU2185</Flugnummer>
+    <To>Moscow (SVO)</To>
+    <Fluglinie>Aeroflot</Fluglinie>
+    <Maschine>A321 (VQ-BEF)</Maschine>
+    <Status>Estimated dep. 12:58 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:10 PM</Time>
+    <Flugnummer>LH1237</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>321</Maschine>
+    <Status>Estimated dep. 1:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:15 PM</Time>
+    <Flugnummer>PE103</Flugnummer>
+    <To>St. Gallen (ACH)</To>
+    <Fluglinie>People's Viennaline</Fluglinie>
+    <Maschine>E170 (OE-LMK)</Maschine>
+    <Status>Departed 12:59 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:15 PM</Time>
+    <Flugnummer>LG8856</Flugnummer>
+    <To>Luxembourg (LUX)</To>
+    <Fluglinie>Luxair</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 1:45 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:20 PM</Time>
+    <Flugnummer>LH2329</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>A320 (OE-LBZ)</Maschine>
+    <Status>Estimated dep. 1:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:30 PM</Time>
+    <Flugnummer>AB8437</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Air Berlin</Fluglinie>
+    <Maschine>320</Maschine>
+    <Status>Estimated dep. 1:30 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:30 PM</Time>
+    <Flugnummer>EW5812</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Eurowings</Fluglinie>
+    <Maschine>32A</Maschine>
+    <Status>Estimated dep. 1:30 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>2:10 PM</Time>
+    <Flugnummer>LH1239</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>32A</Maschine>
+    <Status>Estimated dep. 2:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>2:20 PM</Time>
+    <Flugnummer>TK1886</Flugnummer>
+    <To>Istanbul (IST)</To>
+    <Fluglinie>Turkish Airlines</Fluglinie>
+    <Maschine>A321 (TC-JRY)</Maschine>
+    <Status>Estimated dep. 2:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>2:25 PM</Time>
+    <Flugnummer>PC992</Flugnummer>
+    <To>Istanbul (SAW)</To>
+    <Fluglinie>Pegasus Airlines</Fluglinie>
+    <Maschine>A320 (TC-DCM)</Maschine>
+    <Status>Estimated dep. 2:25 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>2:40 PM</Time>
+    <Flugnummer>BA701</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>British Airways</Fluglinie>
+    <Maschine>A320 (G-EUUR)</Maschine>
+    <Status>Estimated dep. 2:58 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>2:40 PM</Time>
+    <Flugnummer>LX1579</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Swiss</Fluglinie>
+    <Maschine>A320 (HB-IJP)</Maschine>
+    <Status>Estimated dep. 2:40 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>2:55 PM</Time>
+    <Flugnummer>EK128</Flugnummer>
+    <To>Dubai (DXB)</To>
+    <Fluglinie>Emirates</Fluglinie>
+    <Maschine>A388 (A6-EOO)</Maschine>
+    <Status>Estimated dep. 2:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:00 PM</Time>
+    <Flugnummer>TP1271</Flugnummer>
+    <To>Lisbon (LIS)</To>
+    <Fluglinie>TAP Portugal</Fluglinie>
+    <Maschine>A320 (CS-TMW)</Maschine>
+    <Status>Estimated dep. 3:00 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:00 PM</Time>
+    <Flugnummer>AB8756</Flugnummer>
+    <To>Milan (LIN)</To>
+    <Fluglinie>Air Berlin</Fluglinie>
+    <Maschine>319</Maschine>
+    <Status>Estimated dep. 3:00 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:00 PM</Time>
+    <Flugnummer>AB8409</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNC)</Maschine>
+    <Status>Estimated dep. 3:00 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>AF1739</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Air France</Fluglinie>
+    <Maschine>A321 (F-GTAM)</Maschine>
+    <Status>Estimated dep. 3:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>VY8711</Flugnummer>
+    <To>Barcelona (BCN)</To>
+    <Fluglinie>Vueling (Pepsi Max Livery)</Fluglinie>
+    <Maschine>A320 (EC-MEQ)</Maschine>
+    <Status>Estimated dep. 3:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>OS113</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E95</Maschine>
+    <Status>Estimated dep. 3:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>OS353</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDB)</Maschine>
+    <Status>Estimated dep. 3:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>OS373</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>SunExpress Deutschland</Fluglinie>
+    <Maschine>B738 (D-ASXD)</Maschine>
+    <Status>Estimated dep. 3:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:10 PM</Time>
+    <Flugnummer>OS303</Flugnummer>
+    <To>Copenhagen (CPH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>320</Maschine>
+    <Status>Estimated dep. 3:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:10 PM</Time>
+    <Flugnummer>OS581</Flugnummer>
+    <To>Geneva (GVA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E95</Maschine>
+    <Status>Estimated dep. 3:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:10 PM</Time>
+    <Flugnummer>OS131</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>321</Maschine>
+    <Status>Estimated dep. 3:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:10 PM</Time>
+    <Flugnummer>AB8608</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Air Berlin</Fluglinie>
+    <Maschine>319</Maschine>
+    <Status>Estimated dep. 3:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS797</Flugnummer>
+    <To>Sofia (SOF)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A321 (OE-LBF)</Maschine>
+    <Status>Estimated dep. 3:15 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS513</Flugnummer>
+    <To>Milan (MXP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>320</Maschine>
+    <Status>Estimated dep. 3:15 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS293</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>320</Maschine>
+    <Status>Estimated dep. 3:15 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS791</Flugnummer>
+    <To>Bucharest (OTP)</To>
+    <Fluglinie>Condor</Fluglinie>
+    <Maschine>A320 (D-AICG)</Maschine>
+    <Status>Estimated dep. 3:15 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:20 PM</Time>
+    <Flugnummer>EW5808</Flugnummer>
+    <To>Nurnberg (NUE)</To>
+    <Fluglinie>Eurowings</Fluglinie>
+    <Maschine>32A</Maschine>
+    <Status>Estimated dep. 3:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:20 PM</Time>
+    <Flugnummer>OS183</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E95</Maschine>
+    <Status>Estimated dep. 3:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:20 PM</Time>
+    <Flugnummer>OS563</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>320</Maschine>
+    <Status>Estimated dep. 3:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:25 PM</Time>
+    <Flugnummer>EW1747</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Eurowings</Fluglinie>
+    <Maschine>32A</Maschine>
+    <Status>Estimated dep. 3:25 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:35 PM</Time>
+    <Flugnummer>4U753</Flugnummer>
+    <To>Cologne (CGN)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A320 (D-AIPT)</Maschine>
+    <Status>Estimated dep. 3:35 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:35 PM</Time>
+    <Flugnummer>PS848</Flugnummer>
+    <To>Kiev (KBP)</To>
+    <Fluglinie>Ukraine International Airlines</Fluglinie>
+    <Maschine>B733 (UR-GBA)</Maschine>
+    <Status>Estimated dep. 3:35 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:40 PM</Time>
+    <Flugnummer>TO3763</Flugnummer>
+    <To>Paris (ORY)</To>
+    <Fluglinie>Transavia France</Fluglinie>
+    <Maschine>B738 (F-GZHN)</Maschine>
+    <Status>Estimated dep. 3:40 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>4:10 PM</Time>
+    <Flugnummer>U27946</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>319</Maschine>
+    <Status>Estimated dep. 4:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>4:30 PM</Time>
+    <Flugnummer>4U2755</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A319 (D-AKNR)</Maschine>
+    <Status>Estimated dep. 4:30 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>4:30 PM</Time>
+    <Flugnummer>OZ795</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Asiana Airlines</Fluglinie>
+    <Maschine>74F</Maschine>
+    <Status>Scheduled </Status>
+  </Flug>
+  <Flug>
+    <Time>4:30 PM</Time>
+    <Flugnummer>OZ796</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Asiana Airlines</Fluglinie>
+    <Maschine>74F</Maschine>
+    <Status>Scheduled </Status>
+  </Flug>
+  <Flug>
+    <Time>7:55 AM</Time>
+    <Flugnummer>AC8658</Flugnummer>
+    <To>Ottawa (YOW)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-GONJ)</Maschine>
+    <Status>Departed 8:18 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:15 AM</Time>
+    <Flugnummer>AC8642</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8D (C-GGAH)</Maschine>
+    <Status>Departed 9:56 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:30 AM</Time>
+    <Flugnummer>AC8644</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FGRP)</Maschine>
+    <Status>Departed 11:45 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:45 AM</Time>
+    <Flugnummer>AC8646</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FPON)</Maschine>
+    <Status>Departed 12:14 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>WS3508</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>WestJet Encore</Fluglinie>
+    <Maschine>DH8D (C-FQWE)</Maschine>
+    <Status>Departed 4:19 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:35 PM</Time>
+    <Flugnummer>AC8650</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8D (C-GGOY)</Maschine>
+    <Status>Departed 3:43 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>5:35 PM</Time>
+    <Flugnummer>AC8652</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-GONW)</Maschine>
+    <Status>Departed 5:48 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:05 PM</Time>
+    <Flugnummer>AC8660</Flugnummer>
+    <To>Ottawa (YOW)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-GONJ)</Maschine>
+    <Status>Departed 6:29 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 PM</Time>
+    <Flugnummer>AC8654</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FGRM)</Maschine>
+    <Status>Departed 7:26 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:45 PM</Time>
+    <Flugnummer>AC8656</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8D (C-GGOI)</Maschine>
+    <Status>Departed 9:54 PM Tuesday Dec 13 </Status>
+  </Flug>
+  <Flug>
+    <Time>12:00 AM</Time>
+    <Flugnummer>UJ196</Flugnummer>
+    <To>Detroit (YIP)</To>
+    <Fluglinie>AlMasria Universal Airlines</Fluglinie>
+    <Maschine>DC9</Maschine>
+    <Status>Unknown </Status>
+  </Flug>
+  <Flug>
+    <Time>6:15 AM</Time>
+    <Flugnummer>AC8640</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8D (C-GGOY)</Maschine>
+    <Status>Departed 6:23 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:15 AM</Time>
+    <Flugnummer>WS3504</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>WestJet Encore</Fluglinie>
+    <Maschine>DH8D (C-FSWE)</Maschine>
+    <Status>Departed 6:29 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:45 AM</Time>
+    <Flugnummer>WS567</Flugnummer>
+    <To>Calgary (YYC)</To>
+    <Fluglinie>Westjet</Fluglinie>
+    <Maschine>B738 (C-FYBK)</Maschine>
+    <Status>Departed 7:05 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:55 AM</Time>
+    <Flugnummer>AC8658</Flugnummer>
+    <To>Ottawa (YOW)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FGRC)</Maschine>
+    <Status>Estimated dep. 7:55 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:15 AM</Time>
+    <Flugnummer>AC8642</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Air Canada</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 9:15 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:30 AM</Time>
+    <Flugnummer>AC8644</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FGRY)</Maschine>
+    <Status>Estimated dep. 10:30 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:45 AM</Time>
+    <Flugnummer>AC8646</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-GJMI)</Maschine>
+    <Status>Estimated dep. 11:45 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:20 PM</Time>
+    <Flugnummer>AC8648</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-GONO)</Maschine>
+    <Status>Estimated dep. 1:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>WS3508</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>WestJet Encore</Fluglinie>
+    <Maschine>DH8D (C-FSWE)</Maschine>
+    <Status>Estimated dep. 3:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:35 PM</Time>
+    <Flugnummer>AC8650</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8D (C-GGOY)</Maschine>
+    <Status>Estimated dep. 3:35 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>5:35 PM</Time>
+    <Flugnummer>AC8652</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FGRY)</Maschine>
+    <Status>Estimated dep. 5:35 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:05 PM</Time>
+    <Flugnummer>AC8660</Flugnummer>
+    <To>Ottawa (YOW)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FGRC)</Maschine>
+    <Status>Estimated dep. 6:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 PM</Time>
+    <Flugnummer>AC8654</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FPON)</Maschine>
+    <Status>Estimated dep. 7:15 PM Wednesday Dec 14</Status>
+  </Flug>
+  <Flug>
+    <Time>6:15 AM</Time>
+    <Flugnummer>AC8640</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8D (C-GGOK)</Maschine>
+    <Status>Estimated dep. 6:15 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:15 AM</Time>
+    <Flugnummer>WS3504</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>WestJet</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Scheduled </Status>
+  </Flug>
+  <Flug>
+    <Time>6:30 AM</Time>
+    <Flugnummer>UA5520</Flugnummer>
+    <To>Chicago (ORD)</To>
+    <Fluglinie>United Airlines</Fluglinie>
+    <Maschine>CRJ</Maschine>
+    <Status>Scheduled </Status>
+  </Flug>
+  <Flug>
+    <Time>6:45 AM</Time>
+    <Flugnummer>WS567</Flugnummer>
+    <To>Calgary (YYC)</To>
+    <Fluglinie>Westjet</Fluglinie>
+    <Maschine>B738 (C-GJWS)</Maschine>
+    <Status>Estimated dep. 6:45 AM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:10 PM</Time>
+    <Flugnummer>LH1237</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>A319(D-AILK)</Maschine>
+    <Status>Departed 1:31PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:15 PM</Time>
+    <Flugnummer>PE103</Flugnummer>
+    <To>St. Gallen (ACH)</To>
+    <Fluglinie>People's Viennaline</Fluglinie>
+    <Maschine>E170 (OE-LMK)</Maschine>
+    <Status>Departed 12:55 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:15 PM</Time>
+    <Flugnummer>LG8856</Flugnummer>
+    <To>Luxembourg (LUX)</To>
+    <Fluglinie>Luxair</Fluglinie>
+    <Maschine>DH8D (LX-LQD)</Maschine>
+    <Status>Departed 1:19 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:20 PM</Time>
+    <Flugnummer>OS75</Flugnummer>
+    <To>Shanghai (PVG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>B772 (OE-LPB)</Maschine>
+    <Status>Departed 1:46 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:20 PM</Time>
+    <Flugnummer>LH2329</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>A320 (OE-LBZ)</Maschine>
+    <Status>Departed 1:36 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:25 PM</Time>
+    <Flugnummer>TK1900</Flugnummer>
+    <To>Istanbul (SAW)</To>
+    <Fluglinie>Turkish Airlines</Fluglinie>
+    <Maschine>B738 (TC-JGZ)</Maschine>
+    <Status>Departed 1:43 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:30 PM</Time>
+    <Flugnummer>EW5812</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Eurowings Europe</Fluglinie>
+    <Maschine>A320 (OE-IQA)</Maschine>
+    <Status>Departed 1:41 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:30 PM</Time>
+    <Flugnummer>AB8437</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A320 (OE-LED)</Maschine>
+    <Status>Departed 1:39 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:40 PM</Time>
+    <Flugnummer>OS57</Flugnummer>
+    <To>Hong Kong( HKG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>B772 (OE-LPC)</Maschine>
+    <Status>Departed 1:54 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:45 PM</Time>
+    <Flugnummer>U24852</Flugnummer>
+    <To>Naples (NAP)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>319 (G-EZDU)</Maschine>
+    <Status>Departed 1:58 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>1:45 PM</Time>
+    <Flugnummer>U24732</Flugnummer>
+    <To>Berlin (SXF)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A320 (G-EZWI)</Maschine>
+    <Status>Departed 2:02 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:10 PM</Time>
+    <Flugnummer>LH1239</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>A321 (D-AISH)</Maschine>
+    <Status>Departed 2:16 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:20 PM</Time>
+    <Flugnummer>TK1886</Flugnummer>
+    <To>Istanbul (IST)</To>
+    <Fluglinie>Turkish Airlines</Fluglinie>
+    <Maschine>A321 (TC-JSC)</Maschine>
+    <Status>Departed 2:42 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:25 PM</Time>
+    <Flugnummer>PC992</Flugnummer>
+    <To>Istanbul (SAW)</To>
+    <Fluglinie>Pegasus Airlines</Fluglinie>
+    <Maschine>B738 (TC-CPL)</Maschine>
+    <Status>Departed 2:37 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:25 PM</Time>
+    <Flugnummer>LO8194</Flugnummer>
+    <To>Tallinn (TLL)</To>
+    <Fluglinie>Nordica</Fluglinie>
+    <Maschine>CRJ7 (ES-ACE)</Maschine>
+    <Status>Departed 2:22 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:35 PM</Time>
+    <Flugnummer>LS852</Flugnummer>
+    <To>Edinburgh (EDI)</To>
+    <Fluglinie>Jet2</Fluglinie>
+    <Maschine>B733 (G-GDFE)</Maschine>
+    <Status>Departed 3:02 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:35 PM</Time>
+    <Flugnummer>BA701</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>British Airways</Fluglinie>
+    <Maschine>A320 (G-EUYF)</Maschine>
+    <Status>Departed 3:05 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:40 PM</Time>
+    <Flugnummer>LX1579</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Swiss (Star Alliance Livery)</Fluglinie>
+    <Maschine>A320 (HB-IJN)</Maschine>
+    <Status>Departed 3:33 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>2:55 PM</Time>
+    <Flugnummer>EK128</Flugnummer>
+    <To>Dubai (DXB)</To>
+    <Fluglinie>Emirates</Fluglinie>
+    <Maschine>A388 (A6-EES)</Maschine>
+    <Status>Departed 3:14 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:00 PM</Time>
+    <Flugnummer>TP1271</Flugnummer>
+    <To>Lisbon (LIS)</To>
+    <Fluglinie>TAP Portugal</Fluglinie>
+    <Maschine>A320 (CS-TQD)</Maschine>
+    <Status>Departed 4:01 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:00 PM</Time>
+    <Flugnummer>AB8756</Flugnummer>
+    <To>Milan (LIN)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNE)</Maschine>
+    <Status>Departed 3:08 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:00 PM</Time>
+    <Flugnummer>AB8608</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNC)</Maschine>
+    <Status>Departed 4:05 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:00 PM</Time>
+    <Flugnummer>AB8409</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNB)</Maschine>
+    <Status>Departed 3:11 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>OS373</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>SunExpress Deutschland</Fluglinie>
+    <Maschine>B738 (D-ASXD)</Maschine>
+    <Status>Departed 3:17 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>OS353</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDC)</Maschine>
+    <Status>Departed 3:18 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>OS113</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDF)</Maschine>
+    <Status>Departed 3:12 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>VY8711</Flugnummer>
+    <To>Barcelona (BCN)</To>
+    <Fluglinie>Vueling</Fluglinie>
+    <Maschine>A320 (EC-KHN)</Maschine>
+    <Status>Departed 3:51 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>OS353</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDC)</Maschine>
+    <Status>Departed 3:18 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:10 PM</Time>
+    <Flugnummer>OS303</Flugnummer>
+    <To>Copenhagen (CPH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBV)</Maschine>
+    <Status>Departed 3:32 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:10 PM</Time>
+    <Flugnummer>OS581</Flugnummer>
+    <To>Geneva (GVA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWI)</Maschine>
+    <Status>Departed 3:29 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:10 PM</Time>
+    <Flugnummer>OS131</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBN)</Maschine>
+    <Status>Departed 3:35 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS797</Flugnummer>
+    <To>Sofia (SOF)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWB)</Maschine>
+    <Status>Departed 3:37 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS513</Flugnummer>
+    <To>Milan (MXP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBW)</Maschine>
+    <Status>Departed 3:32 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS293</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance livery)</Fluglinie>
+    <Maschine>A320 (OE-LBX)</Maschine>
+    <Status>Departed 3:43 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS791</Flugnummer>
+    <To>Bucharest (OTP)</To>
+    <Fluglinie>Condor</Fluglinie>
+    <Maschine>A320 (D-AICG)</Maschine>
+    <Status>Departed 3:40 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>CA842</Flugnummer>
+    <To>Beijing (PEK)</To>
+    <Fluglinie>Air China</Fluglinie>
+    <Maschine>A333 (B-5957)</Maschine>
+    <Status>Departed 3:27 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:20 PM</Time>
+    <Flugnummer>OS563</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>A319 (OE-LDE)</Maschine>
+    <Status>Departed 3:45 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:20 PM</Time>
+    <Flugnummer>OS183</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F100 (OE-LVI)</Maschine>
+    <Status>Departed 3:43 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:20 PM</Time>
+    <Flugnummer>EW5808</Flugnummer>
+    <To>Nurnberg (NUE)</To>
+    <Fluglinie>Eurowings Europe</Fluglinie>
+    <Maschine>A320 (OE-IEW)</Maschine>
+    <Status>Departed 3:24 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:25 PM</Time>
+    <Flugnummer>EW1747</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Eurowings (Borussia Dortmund Livery)</Fluglinie>
+    <Maschine>A320 (D-AIZR)</Maschine>
+    <Status>Departed 3:30 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:25 PM</Time>
+    <Flugnummer>VY8547</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Vueling</Fluglinie>
+    <Maschine>A320 (EC-MBK)</Maschine>
+    <Status>Departed 3:28 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:35 PM</Time>
+    <Flugnummer>4U753</Flugnummer>
+    <To>Cologne (CGN)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A319 (D-AGWO)</Maschine>
+    <Status>Departed 3:47 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>3:35 PM</Time>
+    <Flugnummer>PS848</Flugnummer>
+    <To>Kiev (KBP)</To>
+    <Fluglinie>Ukraine International Airlines</Fluglinie>
+    <Maschine>E190 (UR-EMD)</Maschine>
+    <Status>Departed 3:54 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>4:00 PM</Time>
+    <Flugnummer>7L297</Flugnummer>
+    <To>Hahn (HHN)</To>
+    <Fluglinie>Silk Way West Airlines	</Fluglinie>
+    <Maschine>74N</Maschine>
+    <Status>Unknown</Status>
+  </Flug>
+  <Flug>
+    <Time>4:10 PM</Time>
+    <Flugnummer>U27946</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A320 (G-EZWR)</Maschine>
+    <Status>Departed 5:34 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>4:30 PM</Time>
+    <Flugnummer>4U2755</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A319 (D-AKNR)</Maschine>
+    <Status>Departed 5:13 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>4:35 PM</Time>
+    <Flugnummer>PE105</Flugnummer>
+    <To>St. Gallen (ACH)</To>
+    <Fluglinie>People's Viennaline</Fluglinie>
+    <Maschine>E170 (OE-LMK)</Maschine>
+    <Status>Departed 3:55 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>4:35 PM</Time>
+    <Flugnummer>U21486</Flugnummer>
+    <To>Geneva (GVA)</To>
+    <Fluglinie>EasyJet Switzerland</Fluglinie>
+    <Maschine>A319 (HB-JYI)</Maschine>
+    <Status>Departed 4:50 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>4:45 PM</Time>
+    <Flugnummer>OS735</Flugnummer>
+    <To>Belgrade (BEG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGG)</Maschine>
+    <Status>Departed 4:59 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>4:50 PM</Time>
+    <Flugnummer>LH2331</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>A320 (OE-LBZ)</Maschine>
+    <Status>Departed 4:57 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>4:55 PM</Time>
+    <Flugnummer>BA703</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>British Airways</Fluglinie>
+    <Maschine>A320 (G-EUUS)</Maschine>
+    <Status>Departed 5:10 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:05 PM</Time>
+    <Flugnummer>KL1848</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>KLM</Fluglinie>
+    <Maschine>B738 (PH-BXK)</Maschine>
+    <Status>Departed 5:16 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:05 PM</Time>
+    <Flugnummer>AB8441</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A320 (OE-LEG)</Maschine>
+    <Status>Departed 5:30 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:05 PM</Time>
+    <Flugnummer>AB8318</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A321 (OE-LES)</Maschine>
+    <Status>Departed 5:22 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:10 PM</Time>
+    <Flugnummer>OS677</Flugnummer>
+    <To>Zagreb (ZAG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGC)</Maschine>
+    <Status>Departed 5:43 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:10 PM</Time>
+    <Flugnummer>OS125</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBO)</Maschine>
+    <Status>Departed 5:26 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:15 PM</Time>
+    <Flugnummer>OS901</Flugnummer>
+    <To>Innsbruck (INN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFQ)</Maschine>
+    <Status>Departed 5:19 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:15 PM</Time>
+    <Flugnummer>OS375</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDA)</Maschine>
+    <Status>Departed 5:28 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:15 PM</Time>
+    <Flugnummer>OS939</Flugnummer>
+    <To>Klagenfurt (KLU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Departed 5:56 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:15 PM</Time>
+    <Flugnummer>OS407</Flugnummer>
+    <To>Lyon (LYS)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>E190 (OE-LWH)</Maschine>
+    <Status>Departed 5:28 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:15 PM</Time>
+    <Flugnummer>OS455</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A321 (OE-LBB)</Maschine>
+    <Status>Departed 5:31 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:20 PM</Time>
+    <Flugnummer>OS721</Flugnummer>
+    <To>Budapest (BUD)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDB)</Maschine>
+    <Status>Departed 5:38 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:20 PM</Time>
+    <Flugnummer>OS529</Flugnummer>
+    <To>Venice (VCE)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGD)</Maschine>
+    <Status>Departed 5:46 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:20 PM</Time>
+    <Flugnummer>OS417</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>A321 (OE-LBC)</Maschine>
+    <Status>Departed 5:55 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:25 PM</Time>
+    <Flugnummer>OS709</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBU)</Maschine>
+    <Status>Departed 5:35 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:25 PM</Time>
+    <Flugnummer>OS355</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBY)</Maschine>
+    <Status>Departed 5:42 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:25 PM</Time>
+    <Flugnummer>OS305</Flugnummer>
+    <To>Copenhagen (CPH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F100 (OE-LVM)</Maschine>
+    <Status>Departed 5:37 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:25 PM</Time>
+    <Flugnummer>OS977</Flugnummer>
+    <To>Graz (GRZ)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>DH8D (OE-LGO)</Maschine>
+    <Status>Departed 5:35 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:30 PM</Time>
+    <Flugnummer>OS187</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWM)</Maschine>
+    <Status>Departed 5:44 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:30 PM</Time>
+    <Flugnummer>OS171</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBT)</Maschine>
+    <Status>Departed 5:57 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:30 PM</Time>
+    <Flugnummer>OS115</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWA)</Maschine>
+    <Status>Departed 5:38 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:35 PM</Time>
+    <Flugnummer>OS575</Flugnummer>
+    <To>Geneva (GVA)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>E190 (OE-LWD)</Maschine>
+    <Status>Departed 5:48 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:35 PM</Time>
+    <Flugnummer>OS213</Flugnummer>
+    <To>Leipzig (LEJ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGA)</Maschine>
+    <Status>Departed 5:45 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:35 PM</Time>
+    <Flugnummer>OS155</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBJ)</Maschine>
+    <Status>Departed 5:43 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:40 PM</Time>
+    <Flugnummer>OS515</Flugnummer>
+    <To>Milan (MXP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWK)</Maschine>
+    <Status>Departed 5:50 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:40 PM</Time>
+    <Flugnummer>OS565</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBL)</Maschine>
+    <Status>Departed 6:10 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:45 PM</Time>
+    <Flugnummer>OS473</Flugnummer>
+    <To>Basel (BSL)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWL)</Maschine>
+    <Status>Departed 5:53 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:45 PM</Time>
+    <Flugnummer>OS631</Flugnummer>
+    <To>Warsaw (WAW)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFI)</Maschine>
+    <Status>Departed 5:50 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:45 PM</Time>
+    <Flugnummer>EW5832</Flugnummer>
+    <To>London (STN)</To>
+    <Fluglinie>Eurowings Europe</Fluglinie>
+    <Maschine>A320 (OE-IEU)</Maschine>
+    <Status>Departed 6:33 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:45 PM</Time>
+    <Flugnummer>OS63</Flugnummer>
+    <To>Beijing (PEK)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>B763 (OE-LAT)</Maschine>
+    <Status>Departed 7:38 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:50 PM</Time>
+    <Flugnummer>RO344</Flugnummer>
+    <To>Bucharest (OTP)</To>
+    <Fluglinie>Tarom</Fluglinie>
+    <Maschine>B737 (YR-BGI)</Maschine>
+    <Status>Departed 6:07 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:50 PM</Time>
+    <Flugnummer>QR184</Flugnummer>
+    <To>Doha (DOH)</To>
+    <Fluglinie>Qatar Airways</Fluglinie>
+    <Maschine>B788 (A7-BCW)</Maschine>
+    <Status>Departed 5:58 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:50 PM</Time>
+    <Flugnummer>EW5922</Flugnummer>
+    <To>Barcelona (BCN)</To>
+    <Fluglinie>Eurowings Europe	A320</Fluglinie>
+    <Maschine>(OE-IQA)</Maschine>
+    <Status>Departed 6:08 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>5:55 PM</Time>
+    <Flugnummer>KM515</Flugnummer>
+    <To>Luqa (MLA)</To>
+    <Fluglinie>Air Malta</Fluglinie>
+    <Maschine>A320 (9H-AEQ)</Maschine>
+    <Status>Departed 5:51 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:05 PM</Time>
+    <Flugnummer>SU2353</Flugnummer>
+    <To>Moscow (SVO)</To>
+    <Fluglinie>Aeroflot</Fluglinie>
+    <Maschine>A321 (VP-BEW)</Maschine>
+    <Status>Departed 6:25 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:05 PM</Time>
+    <Flugnummer>SN2906</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Brussels Airlines</Fluglinie>
+    <Maschine>A319 (OO-SSV)</Maschine>
+    <Status>Departed 6:35 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:05 PM</Time>
+    <Flugnummer>BA2659</Flugnummer>
+    <To>London (LGW)</To>
+    <Fluglinie>British Airways</Fluglinie>
+    <Maschine>A320 (G-GATP)</Maschine>
+    <Status>Departed 6:24 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:10 PM</Time>
+    <Flugnummer>LH1241</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>A321 (D-AIDQ)</Maschine>
+    <Status>Departed 6:20 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:25 PM</Time>
+    <Flugnummer>AB8497</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A320 (OE-LEU)</Maschine>
+    <Status>Departed 6:36 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:50 PM</Time>
+    <Flugnummer>U24462</Flugnummer>
+    <To>Lyon (LYS)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A319 (G-EZIY)</Maschine>
+    <Status>Departed 6:53 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:50 PM</Time>
+    <Flugnummer>BT434</Flugnummer>
+    <To>Riga (RIX)</To>
+    <Fluglinie>Air Baltic</Fluglinie>
+    <Maschine>DH8D (YL-BBW)</Maschine>
+    <Status>Departed 6:57 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:55 PM</Time>
+    <Flugnummer>EW5804</Flugnummer>
+    <To>Hannover (HAJ)</To>
+    <Fluglinie>Eurowings Europe</Fluglinie>
+    <Maschine>A320 (OE-IEW)</Maschine>
+    <Status>Departed 7:00 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:00 PM</Time>
+    <Flugnummer>LX1583</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Swiss</Fluglinie>
+    <Maschine>A343 (HB-JMK)</Maschine>
+    <Status>Departed 8:04 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:00 PM</Time>
+    <Flugnummer>AB8507</Flugnummer>
+    <To>Hannover (HAJ)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNB)</Maschine>
+    <Status>Departed 7:14 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:05 PM</Time>
+    <Flugnummer>AB8728</Flugnummer>
+    <To>Rome (FCO)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNA)</Maschine>
+    <Status>Departed 7:31 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:05 PM</Time>
+    <Flugnummer>AB8616</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNC)</Maschine>
+    <Status>Departed 8:22 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:10 PM</Time>
+    <Flugnummer>LH1243</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>A321 (D-AISI)</Maschine>
+    <Status>Departed 7:17 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 PM</Time>
+    <Flugnummer>AB875</Flugnummer>
+    <To>Milan (LIN)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNE)</Maschine>
+    <Status>Departed 7:17 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 PM</Time>
+    <Flugnummer>AY768</Flugnummer>
+    <To>Helsinki (HEL)</To>
+    <Fluglinie>Finnair</Fluglinie>
+    <Maschine>A320 (OH-LXD)</Maschine>
+    <Status>Departed 7:26 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:20 PM</Time>
+    <Flugnummer>TK1888</Flugnummer>
+    <To>Istanbul (IST)</To>
+    <Fluglinie>Turkish Airlines</Fluglinie>
+    <Maschine>A321 (TC-JSJ)</Maschine>
+    <Status>Departed 7:41 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:20 PM</Time>
+    <Flugnummer>AB8413</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A320 (OE-LED)</Maschine>
+    <Status>Departed 7:24 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:25 PM</Time>
+    <Flugnummer>RJ128</Flugnummer>
+    <To>Amman (AMM)</To>
+    <Fluglinie>Royal Jordanian</Fluglinie>
+    <Maschine>A319 (JY-AYM)</Maschine>
+    <Status>Departed 7:28 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:30 PM</Time>
+    <Flugnummer>IB3123</Flugnummer>
+    <To>Madrid (MAD)</To>
+    <Fluglinie>Iberia</Fluglinie>
+    <Maschine>A320 (EC-IEG)</Maschine>
+    <Status>Departed 10:29 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:35 PM</Time>
+    <Flugnummer>OU443</Flugnummer>
+    <To>Zagreb (ZAG)</To>
+    <Fluglinie>Croatia Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Canceled</Status>
+  </Flug>
+  <Flug>
+    <Time>7:35 PM</Time>
+    <Flugnummer>LO226</Flugnummer>
+    <To>Warsaw (WAW)</To>
+    <Fluglinie>LOT</Fluglinie>
+    <Maschine>E75S (SP-LIN)</Maschine>
+    <Status>Departed 8:32 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:40 PM</Time>
+    <Flugnummer>FB410</Flugnummer>
+    <To>Sofia (SOF)</To>
+    <Fluglinie>Bulgaria Air</Fluglinie>
+    <Maschine>A320 (LZ-FBC)</Maschine>
+    <Status>Departed 7:43 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:45 PM</Time>
+    <Flugnummer>OS117</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDD)</Maschine>
+    <Status>Departed 7:48 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>7:55 PM</Time>
+    <Flugnummer>PE107</Flugnummer>
+    <To>St. Gallen (ACH)</To>
+    <Fluglinie>Helvetic Airways</Fluglinie>
+    <Maschine>E190 (HB-JVP)</Maschine>
+    <Status>Departed 8:00 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:00 PM</Time>
+    <Flugnummer>4U7751</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A320 (D-AIQF)</Maschine>
+    <Status>Departed 8:12 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:00 PM</Time>
+    <Flugnummer>JP137</Flugnummer>
+    <To>Ljubljana (LJU)</To>
+    <Fluglinie>Adria Airways</Fluglinie>
+    <Maschine>CRJ9 (S5-AAO)</Maschine>
+    <Status>Departed 8:12 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:00 PM</Time>
+    <Flugnummer>EW1749</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Eurowings (Borussia Dortmund Livery)</Fluglinie>
+    <Maschine>A320 (D-AIZR)</Maschine>
+    <Status>Departed 8:10 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:05 PM</Time>
+    <Flugnummer>OS871</Flugnummer>
+    <To>Tehran (IKA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBQ)</Maschine>
+    <Status>Departed 8:31 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:05 PM</Time>
+    <Flugnummer>OS377</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>Austrian Airlines	</Fluglinie>
+    <Maschine>A320 (OE-LBW)</Maschine>
+    <Status>Departed 8:18 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:05 PM</Time>
+    <Flugnummer>OS711</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>DH8D (OE-LGO)</Maschine>
+    <Status>Departed 8:22 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:05 PM</Time>
+    <Flugnummer>OS457</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A321 (OE-LBF)</Maschine>
+    <Status>Departed 8:33 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:10 PM</Time>
+    <Flugnummer>OS517</Flugnummer>
+    <To>Milan (MXP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBN)</Maschine>
+    <Status>Departed 8:25 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:10 PM</Time>
+    <Flugnummer>OS567</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBI)</Maschine>
+    <Status>Departed 8:27 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:10 PM</Time>
+    <Flugnummer>OS973</Flugnummer>
+    <To>Graz (GRZ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGJ)</Maschine>
+    <Status>Departed 8:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:10 PM</Time>
+    <Flugnummer>OS127</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A321 (OE-LBD)</Maschine>
+    <Status>Departed 8:35 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:10 PM</Time>
+    <Flugnummer>AF1239</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Air France</Fluglinie>
+    <Maschine>A319 (F-GRHH)</Maschine>
+    <Status>Departed 8:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:15 PM</Time>
+    <Flugnummer>OS535</Flugnummer>
+    <To>Bologna (BLQ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDF)</Maschine>
+    <Status>Departed 8:36 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:15 PM</Time>
+    <Flugnummer>OS577</Flugnummer>
+    <To>Geneva (GVA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWB)</Maschine>
+    <Status>Departed 8:32 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:15 PM</Time>
+    <Flugnummer>OS179</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBV)</Maschine>
+    <Status>Departed 8:37 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:15 PM</Time>
+    <Flugnummer>OS767</Flugnummer>
+    <To>Bucharest (OTP)</To>
+    <Fluglinie>Condor</Fluglinie>
+    <Maschine>A320 (D-AICG)</Maschine>
+    <Status>Departed 8:53 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:20 PM</Time>
+    <Flugnummer>OS527</Flugnummer>
+    <To>Venice (VCE)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>A319 (OE-LDE)</Maschine>
+    <Status>Departed 8:41 PM</Status>
+  </Flug>
+  <Flug>
+    <Time>8:20 PM</Time>
+    <Flugnummer>OS307</Flugnummer>
+    <To>Copenhagen (CPH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBK)</Maschine>
+    <Status>Departed 8:40 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:20 PM</Time>
+    <Flugnummer>LH2333</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>A320 (OE-LBZ)</Maschine>
+    <Status>Departed 8:40 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:20 PM</Time>
+    <Flugnummer>OS799</Flugnummer>
+    <To>Sofia (SOF)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance livery)</Fluglinie>
+    <Maschine>A320 (OE-LBX)</Maschine>
+    <Status>Departed 8:43 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:25 PM</Time>
+    <Flugnummer>4U755</Flugnummer>
+    <To>Cologne (CGN)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A320 (D-AIPT)</Maschine>
+    <Status>Departed 8:45 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:25 PM</Time>
+    <Flugnummer>OS859</Flugnummer>
+    <To>Tel Aviv (TLV)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBU)</Maschine>
+    <Status>Departed 8:51 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:25 PM</Time>
+    <Flugnummer>OS273</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>SunExpress Deutschland</Fluglinie>
+    <Maschine>B738 (D-ASXD)</Maschine>
+    <Status>Departed 8:42 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:30 PM</Time>
+    <Flugnummer>OS317</Flugnummer>
+    <To>Stockholm (ARN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWI)</Maschine>
+    <Status>Departed 8:50 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:30 PM</Time>
+    <Flugnummer>OS929</Flugnummer>
+    <To>Klagenfurt (KLU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGC)</Maschine>
+    <Status>Departed 8:38 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:35 PM</Time>
+    <Flugnummer>OS913</Flugnummer>
+    <To>Innsbruck (INN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGB)</Maschine>
+    <Status>Departed 8:46 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:35 PM</Time>
+    <Flugnummer>OS599</Flugnummer>
+    <To>Krakow (KRK)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDC)</Maschine>
+    <Status>Departed 8:42 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:40 PM</Time>
+    <Flugnummer>HV5294</Flugnummer>
+    <To>Rotterdam (RTM)</To>
+    <Fluglinie>Transavia</Fluglinie>
+    <Maschine>B737 (PH-XRX)</Maschine>
+    <Status>Departed 8:48 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:45 PM</Time>
+    <Flugnummer>U25354</Flugnummer>
+    <To>London (LGW)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A319 (G-EZIL)</Maschine>
+    <Status>Departed 9:32 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:50 PM</Time>
+    <Flugnummer>LG8858</Flugnummer>
+    <To>Luxembourg (LUX)</To>
+    <Fluglinie>Luxair</Fluglinie>
+    <Maschine>DH8D (LX-LGM)</Maschine>
+    <Status>Departed 8:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:55 PM</Time>
+    <Flugnummer>4U2757</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A320 (D-AIQE)</Maschine>
+    <Status>Departed 9:01 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:00 PM</Time>
+    <Flugnummer>U26082</Flugnummer>
+    <To>Bristol (BRS)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A320 (G-EZUT)</Maschine>
+    <Status>Departed 9:18 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:00 PM</Time>
+    <Flugnummer>JU605</Flugnummer>
+    <To>Belgrade (BEG)</To>
+    <Fluglinie>AirSERBIA</Fluglinie>
+    <Maschine>AT75 (YU-ALV)</Maschine>
+    <Status>Departed 9:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:05 PM</Time>
+    <Flugnummer>AB8415</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Air Berlin</Fluglinie>
+    <Maschine>B737 (D-AHXE)</Maschine>
+    <Status>Departed 9:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:15 PM</Time>
+    <Flugnummer>OS717</Flugnummer>
+    <To>Budapest (BUD)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGD)</Maschine>
+    <Status>Departed 9:25 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:30 PM</Time>
+    <Flugnummer>SN2908</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Brussels Airlines (Magritte Livery)</Fluglinie>
+    <Maschine>A320 (OO-SNC)</Maschine>
+    <Status>Departed 9:35 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:50 PM</Time>
+    <Flugnummer>9U868</Flugnummer>
+    <To>Chisinau (KIV)</To>
+    <Fluglinie>Air Moldova</Fluglinie>
+    <Maschine>E190 (ER-ECB)</Maschine>
+    <Status>Departed 10:04 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:50 PM</Time>
+    <Flugnummer>OS919</Flugnummer>
+    <To>Salzburg (SZG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F100 (OE-LVI)</Maschine>
+    <Status>Departed 9:48 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:00 PM</Time>
+    <Flugnummer>EK126</Flugnummer>
+    <To>Dubai (DXB)</To>
+    <Fluglinie>Emirates</Fluglinie>
+    <Maschine>B77W (A6-EGM)</Maschine>
+    <Status>Departed 10:19 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:15 PM</Time>
+    <Flugnummer>OS743</Flugnummer>
+    <To>Kosice (KSC)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWM)</Maschine>
+    <Status>Departed 10:23 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:20 PM</Time>
+    <Flugnummer>OS667</Flugnummer>
+    <To>Kiev (KBP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWA)</Maschine>
+    <Status>Departed 10:31 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:20 PM</Time>
+    <Flugnummer>OS957</Flugnummer>
+    <To>Linz (LNZ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGG)</Maschine>
+    <Status>Departed 10:22 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:20 PM</Time>
+    <Flugnummer>OS25</Flugnummer>
+    <To>Bangkok (BKK)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>B772 (OE-LPD)</Maschine>
+    <Status>Departed 11:31 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:20 PM</Time>
+    <Flugnummer>ET725</Flugnummer>
+    <To>Addis Ababa (ADD)</To>
+    <Fluglinie>Ethiopian Airlines</Fluglinie>
+    <Maschine>B788 (ET-AOQ)</Maschine>
+    <Status>Departed 12:30 </Status>
+  </Flug>
+  <Flug>
+    <Time>12:15 AM</Time>
+    <Flugnummer>SU2355</Flugnummer>
+    <To>Moscow (SVO)</To>
+    <Fluglinie>Aeroflot</Fluglinie>
+    <Maschine>A321 (VP-BTR)</Maschine>
+    <Status>Departed 12:25 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:10 AM</Time>
+    <Flugnummer>LH1247</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>A320 (D-AIQT)</Maschine>
+    <Status>Departed 6:35 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:15 AM</Time>
+    <Flugnummer>OS771</Flugnummer>
+    <To>Belgrade (BEG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFI)</Maschine>
+    <Status>Departed 6:29 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:20 AM</Time>
+    <Flugnummer>AB8401</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNC)</Maschine>
+    <Status>Departed 6:27 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:25 AM</Time>
+    <Flugnummer>AB8431</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A321 (OE-LNZ)</Maschine>
+    <Status>Departed 6:51 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:25 AM</Time>
+    <Flugnummer>OS215</Flugnummer>
+    <To>Leipzig (LEJ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGA)</Maschine>
+    <Status>Departed 6:53 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:30 AM</Time>
+    <Flugnummer>LX1585</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Helvetic Airways</Fluglinie>
+    <Maschine>E190 (HB-JVN)</Maschine>
+    <Status>Departed 6:48 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:30 AM</Time>
+    <Flugnummer>OS111</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines (Retro livery)</Fluglinie>
+    <Maschine>A320 (OE-LBP)</Maschine>
+    <Status>Departed 6:50 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:30 AM</Time>
+    <Flugnummer>AB8750</Flugnummer>
+    <To>Milan (LIN)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNA)</Maschine>
+    <Status>Departed 6:54 AM</Status>
+  </Flug>
+  <Flug>
+    <Time>6:35 AM</Time>
+    <Flugnummer>OS915</Flugnummer>
+    <To>Innsbruck (INN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFQ)</Maschine>
+    <Status>Departed 6:59 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:35 AM</Time>
+    <Flugnummer>AB8720</Flugnummer>
+    <To>Rome (FCO)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNB)</Maschine>
+    <Status>Departed 6:58 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:35 AM</Time>
+    <Flugnummer>AB8491</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNE)</Maschine>
+    <Status>Departed 7:00 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:40 AM</Time>
+    <Flugnummer>EW5806</Flugnummer>
+    <To>Nurnberg (NUE)</To>
+    <Fluglinie>Eurowings Europe</Fluglinie>
+    <Maschine>A320 (OE-IQA)</Maschine>
+    <Status>Departed 7:05 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:40 AM</Time>
+    <Flugnummer>OS703</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGC)</Maschine>
+    <Status>Departed 7:12 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:40 AM</Time>
+    <Flugnummer>OS451</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBY)</Maschine>
+    <Status>Departed 7:01 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:45 AM</Time>
+    <Flugnummer>EW5900</Flugnummer>
+    <To>Fuerteventura (FUE)</To>
+    <Fluglinie>Eurowings Europe</Fluglinie>
+    <Maschine>A320 (OE-IEU)</Maschine>
+    <Status>Departed 7:06 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:45 AM</Time>
+    <Flugnummer>AB8501</Flugnummer>
+    <To>Hannover (HAJ)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A320 (OE-LEN)</Maschine>
+    <Status>Departed 6:57 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:50 AM</Time>
+    <Flugnummer>OS311</Flugnummer>
+    <To>Stockholm (ARN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E95</Maschine>
+    <Status>Departed 7:14 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:50 AM</Time>
+    <Flugnummer>ET724</Flugnummer>
+    <To>Stockholm (ARN)</To>
+    <Fluglinie>Ethiopian Airlines</Fluglinie>
+    <Maschine>B788 (ET-ATL)</Maschine>
+    <Status>Departed 6:56 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:55 AM</Time>
+    <Flugnummer>KL1838</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>KLM</Fluglinie>
+    <Maschine>B737 (PH-BGU)</Maschine>
+    <Status>Departed 7:41 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:55 AM</Time>
+    <Flugnummer>AB8600</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A320 (OE-LEG)</Maschine>
+    <Status>Departed 7:17 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:00 AM</Time>
+    <Flugnummer>OS681</Flugnummer>
+    <To>Zagreb (ZAG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGF)</Maschine>
+    <Status>Departed 7:24 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:00 AM</Time>
+    <Flugnummer>OS511</Flugnummer>
+    <To>Milan (MXP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDD)</Maschine>
+    <Status>Departed 7:16 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:00 AM</Time>
+    <Flugnummer>OS351</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDA)</Maschine>
+    <Status>Departed 7:19 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:00 AM</Time>
+    <Flugnummer>TK1890</Flugnummer>
+    <To>Istanbul (IST)</To>
+    <Fluglinie>Turkish Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>A320 (TC-JPS)</Maschine>
+    <Status>Departed 7:14 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:05 AM</Time>
+    <Flugnummer>OS805</Flugnummer>
+    <To>Sofia (SOF)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWK)</Maschine>
+    <Status>Departed 7:22 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:05 AM</Time>
+    <Flugnummer>OS151</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBT)</Maschine>
+    <Status>Departed 7:33 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:05 AM</Time>
+    <Flugnummer>OS371</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDB)</Maschine>
+    <Status>Departed 7:51 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:05 AM</Time>
+    <Flugnummer>OS411</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBO)</Maschine>
+    <Status>Departed 7:25 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:10 AM</Time>
+    <Flugnummer>OS301</Flugnummer>
+    <To>Copenhagen (CPH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBL)</Maschine>
+    <Status>Departed 7:31 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:10 AM</Time>
+    <Flugnummer>OS561</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBJ)</Maschine>
+    <Status>Departed 7:32 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:10 AM</Time>
+    <Flugnummer>OS271</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A321 (OE-LBB)</Maschine>
+    <Status>Departed 7:23 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:10 AM</Time>
+    <Flugnummer>OS403</Flugnummer>
+    <To>Lyon (LYS)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>DH8D (OE-LGO)</Maschine>
+    <Status>Departed 7:28 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:10 AM</Time>
+    <Flugnummer>OS121</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A321 (OE-LBE)</Maschine>
+    <Status>Departed 7:47 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 AM</Time>
+    <Flugnummer>OS789</Flugnummer>
+    <To>Bucharest (OTP)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>E190 (OE-LWH)</Maschine>
+    <Status>Departed 7:44 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 AM</Time>
+    <Flugnummer>OS571</Flugnummer>
+    <To>Geneva (GVA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E95</Maschine>
+    <Status>Departed 7:37 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 AM</Time>
+    <Flugnummer>OS177</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWM)</Maschine>
+    <Status>Departed 7:27 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 AM</Time>
+    <Flugnummer>OS191</Flugnummer>
+    <To>Cologne (CGN)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine> E190 (OE-LWD)</Maschine>
+    <Status>Departed 7:29 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:20 AM</Time>
+    <Flugnummer>OS175</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBQ)</Maschine>
+    <Status>Departed 7:38 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:20 AM</Time>
+    <Flugnummer>OS625</Flugnummer>
+    <To>Warsaw (WAW)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F100 (OE-LVM)</Maschine>
+    <Status>Departed 7:46 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:25 AM</Time>
+    <Flugnummer>EW5920</Flugnummer>
+    <To>Barcelona (BCN)</To>
+    <Fluglinie>Eurowings Europe</Fluglinie>
+    <Maschine>A320 (OE-IEW)</Maschine>
+    <Status>Departed 7:44 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:40 AM</Time>
+    <Flugnummer>OZ795</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Asiana Airlines</Fluglinie>
+    <Maschine>74Y</Maschine>
+    <Status>Unknown </Status>
+  </Flug>
+  <Flug>
+    <Time>7:50 AM</Time>
+    <Flugnummer>BA699</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>British Airways</Fluglinie>
+    <Maschine>A320 (G-EUUI)</Maschine>
+    <Status>Departed 8:20 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:10 AM</Time>
+    <Flugnummer>PE101</Flugnummer>
+    <To>St. Gallen (ACH)</To>
+    <Fluglinie>Helvetic Airways</Fluglinie>
+    <Maschine>E190 (HB-JVP)</Maschine>
+    <Status>Departed 8:21 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:10 AM</Time>
+    <Flugnummer>KE541</Flugnummer>
+    <To>Oslo (OSL)</To>
+    <Fluglinie>Korean Air Cargo</Fluglinie>
+    <Maschine>B77L (HL8076)</Maschine>
+    <Status>Departed 8:15 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:15 AM</Time>
+    <Flugnummer>OS471</Flugnummer>
+    <To>Basel (BSL)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGB)</Maschine>
+    <Status>Departed 8:24 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:55 AM</Time>
+    <Flugnummer>4U2759</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A319 (D-AKNI)</Maschine>
+    <Status>Departed 9:09 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:00 AM</Time>
+    <Flugnummer>4U757</Flugnummer>
+    <To>Cologne (CGN)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A319 (D-AGWP)</Maschine>
+    <Status>Departed 9:05 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:05 AM</Time>
+    <Flugnummer>4U7753</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A319 (D-AGWY)</Maschine>
+    <Status>Departed 9:08 AM</Status>
+  </Flug>
+  <Flug>
+    <Time>9:10 AM</Time>
+    <Flugnummer>LH1233</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>A321 (D-AISJ)</Maschine>
+    <Status>Departed 9:17 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:15 AM</Time>
+    <Flugnummer>RO342</Flugnummer>
+    <To>Bucharest (OTP)</To>
+    <Fluglinie>Tarom</Fluglinie>
+    <Maschine>A318 (YR-ASD)</Maschine>
+    <Status>Departed 9:28 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:15 AM</Time>
+    <Flugnummer>4U3751</Flugnummer>
+    <To>Hannover (HAJ)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A319 (D-AGWR)</Maschine>
+    <Status>Departed 9:23 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:25 AM</Time>
+    <Flugnummer>LH2327</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>A320 (OE-LBZ)</Maschine>
+    <Status>Departed 9:36 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:25 AM</Time>
+    <Flugnummer>LO224</Flugnummer>
+    <To>Warsaw (WAW)</To>
+    <Fluglinie>LOT</Fluglinie>
+    <Maschine>B734 (SP-LLE)</Maschine>
+    <Status>Departed 9:58 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:25 AM</Time>
+    <Flugnummer>JU601</Flugnummer>
+    <To>Belgrade (BEG)</To>
+    <Fluglinie>AirSERBIA</Fluglinie>
+    <Maschine>AT72 (YU-ALO)</Maschine>
+    <Status>Departed 9:41 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:30 AM</Time>
+    <Flugnummer>SN2902</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Brussels Airlines</Fluglinie>
+    <Maschine>A319 (OO-SSA)</Maschine>
+    <Status>Departed 9:48 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:30 AM</Time>
+    <Flugnummer>EW1751</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Eurowings</Fluglinie>
+    <Maschine>A320 (D-AIZU)</Maschine>
+    <Status>Departed 9:43 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:40 AM</Time>
+    <Flugnummer>LG8852</Flugnummer>
+    <To>Luxembourg (LUX)</To>
+    <Fluglinie>Luxair</Fluglinie>
+    <Maschine>DH8D (LX-LGM)</Maschine>
+    <Status>Departed 9:50 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:40 AM</Time>
+    <Flugnummer>LX1575</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Swiss</Fluglinie>
+    <Maschine>A321 (HB-IOL)</Maschine>
+    <Status>Departed 10:14 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:45 AM</Time>
+    <Flugnummer>OS903</Flugnummer>
+    <To>Innsbruck (INN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGD)</Maschine>
+    <Status>Departed 9:51 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:50 AM</Time>
+    <Flugnummer>OS687</Flugnummer>
+    <To>Minsk (MSQ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWI)</Maschine>
+    <Status>Departed 10:06 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:50 AM</Time>
+    <Flugnummer>OS713</Flugnummer>
+    <To>Budapest (BUD)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFJ)</Maschine>
+    <Status>Departed 10:11 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:50 AM</Time>
+    <Flugnummer>OS661</Flugnummer>
+    <To>Kiev (KBP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWA)</Maschine>
+    <Status>Departed 10:05 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:55 AM</Time>
+    <Flugnummer>OS705</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGJ)</Maschine>
+    <Status>Departed 10:04 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:00 AM</Time>
+    <Flugnummer>OS763</Flugnummer>
+    <To>Varna (VAR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWB)</Maschine>
+    <Status>Departed 10:19 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:00 AM</Time>
+    <Flugnummer>OS601</Flugnummer>
+    <To>Moscow (DME)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDF)</Maschine>
+    <Status>Departed 10:13 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:00 AM</Time>
+    <Flugnummer>OS833</Flugnummer>
+    <To>Vilnius (VNO)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFI)</Maschine>
+    <Status>Departed 10:34 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:00 AM</Time>
+    <Flugnummer>OS935</Flugnummer>
+    <To>Klagenfurt (KLU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGF)</Maschine>
+    <Status>Departed 10:07 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:05 AM</Time>
+    <Flugnummer>OS795</Flugnummer>
+    <To>Sofia (SOF)</To>
+    <Fluglinie>Condor</Fluglinie>
+    <Maschine>A320 (D-AICG)</Maschine>
+    <Status>Departed 10:20 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:05 AM</Time>
+    <Flugnummer>AF1139</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Air France</Fluglinie>
+    <Maschine>A319 (F-GRHY)</Maschine>
+    <Status>Departed 10:25 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:05 AM</Time>
+    <Flugnummer>OS829</Flugnummer>
+    <To>Arbil (EBL)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDC)</Maschine>
+    <Status>Departed 10:17 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:10 AM</Time>
+    <Flugnummer>OS65</Flugnummer>
+    <To>Chicago (ORD)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>B763 (OE-LAY)</Maschine>
+    <Status>Departed 10:31 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:10 AM</Time>
+    <Flugnummer>OU441</Flugnummer>
+    <To>Zagreb (ZAG)</To>
+    <Fluglinie>Croatia Airlines</Fluglinie>
+    <Maschine>DH8D (9A-CQA)</Maschine>
+    <Status>Departed 10:13 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:10 AM</Time>
+    <Flugnummer>OU441</Flugnummer>
+    <To>Zagreb (ZAG)</To>
+    <Fluglinie>Croatia Airlines</Fluglinie>
+    <Maschine>DH8D (9A-CQA)</Maschine>
+    <Status>Departed 10:13 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:10 AM</Time>
+    <Flugnummer>OS853</Flugnummer>
+    <To>Amman (AMM)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>A319 (OE-LDE)</Maschine>
+    <Status>Departed 10:28 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:15 AM</Time>
+    <Flugnummer>OS783</Flugnummer>
+    <To>Bucharest (OTP)</To>
+    <Fluglinie>SunExpress Deutschland</Fluglinie>
+    <Maschine>B738 (D-ASXD)</Maschine>
+    <Status>Departed 10:23 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:15 AM</Time>
+    <Flugnummer>OS23</Flugnummer>
+    <To>Havana (HAV)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>B763 (OE-LAZ)</Maschine>
+    <Status>Departed 12:27 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:15 AM</Time>
+    <Flugnummer>OS777</Flugnummer>
+    <To>Pristina (PRN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F100 (OE-LVE)</Maschine>
+    <Status>Departed 10:26 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:20 AM</Time>
+    <Flugnummer>OS779</Flugnummer>
+    <To>Skopje (SKP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F100 (OE-LVJ)</Maschine>
+    <Status>Departed 10:37 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:25 AM</Time>
+    <Flugnummer>JP285</Flugnummer>
+    <To>Ljubljana (LJU)</To>
+    <Fluglinie>Adria Airways</Fluglinie>
+    <Maschine>CRJ9 (S5-AAK)</Maschine>
+    <Status>Departed 10:22 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:25 AM</Time>
+    <Flugnummer>OS857</Flugnummer>
+    <To>Tel Aviv (TLV)</To>
+    <Fluglinie>Austrian Airlines (Retro livery)</Fluglinie>
+    <Maschine>A320 (OE-LBP)</Maschine>
+    <Status>Departed 10:35 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:25 AM</Time>
+    <Flugnummer>OS831</Flugnummer>
+    <To>Larnaca (LCA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBN)</Maschine>
+    <Status>Departed 10:58 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:25 AM</Time>
+    <Flugnummer>OS71</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>B763 (OE-LAX)</Maschine>
+    <Status>Departed 10:48 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:30 AM</Time>
+    <Flugnummer>AB8405</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNC)</Maschine>
+    <Status>Departed 10:43 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:30 AM</Time>
+    <Flugnummer>AB8435</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNA)</Maschine>
+    <Status>Departed 10:41 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:40 AM</Time>
+    <Flugnummer>RO348</Flugnummer>
+    <To>Cluj-Napoca (CLJ)</To>
+    <Fluglinie>Tarom</Fluglinie>
+    <Maschine>AT45 (YR-ATB)</Maschine>
+    <Status>Departed 10:50 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:45 AM</Time>
+    <Flugnummer>OS87</Flugnummer>
+    <To>New York (JFK)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>B763 (OE-LAW)</Maschine>
+    <Status>Departed 11:43 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:55 AM</Time>
+    <Flugnummer>TK1884</Flugnummer>
+    <To>Istanbul (IST)</To>
+    <Fluglinie>Turkish Airlines</Fluglinie>
+    <Maschine>A321 (TC-JTH)</Maschine>
+    <Status>Departed 11:02 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:00 AM</Time>
+    <Flugnummer>SU6604</Flugnummer>
+    <To>St. Petersburg (LED)</To>
+    <Fluglinie>Rossiya (FC Zenit St. Petersburg Livery)</Fluglinie>
+    <Maschine>A319 (VQ-BAS)</Maschine>
+    <Status>Departed 11:12 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:00 AM</Time>
+    <Flugnummer>CI64</Flugnummer>
+    <To>Taipei (TPE)</To>
+    <Fluglinie>China Airlines</Fluglinie>
+    <Maschine>A343 (B-18806)</Maschine>
+    <Status>Departed 11:10 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:00 AM</Time>
+    <Flugnummer>AB8604</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNE)</Maschine>
+    <Status>Departed 11:46 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:05 AM</Time>
+    <Flugnummer>PS846</Flugnummer>
+    <To>Kiev (KBP)</To>
+    <Fluglinie>Ukraine International Airlines</Fluglinie>
+    <Maschine>B733 (UR-GAH)</Maschine>
+    <Status>Departed 11:09 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:10 AM</Time>
+    <Flugnummer>LH1235</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa (Lu Sticker)</Fluglinie>
+    <Maschine>A319 (D-AILU)</Maschine>
+    <Status>Departed 11:19 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:10 AM</Time>
+    <Flugnummer>HG7086</Flugnummer>
+    <To>Abu Dhabi (AUH)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A320 (OE-LEY)</Maschine>
+    <Status>Departed 11:14 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:15 AM</Time>
+    <Flugnummer>AY766</Flugnummer>
+    <To>Helsinki (HEL)</To>
+    <Fluglinie>Finnair</Fluglinie>
+    <Maschine>A320 (OH-LXD)</Maschine>
+    <Status>Departed 11:17 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:20 AM</Time>
+    <Flugnummer>TU642</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Tunisair</Fluglinie>
+    <Maschine>736</Maschine>
+    <Status>Unknown </Status>
+  </Flug>
+  <Flug>
+    <Time>11:20 AM</Time>
+    <Flugnummer>TU643</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Tunisair</Fluglinie>
+    <Maschine>A319 (TS-IMJ)</Maschine>
+    <Status>Departed 11:52 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:25 AM</Time>
+    <Flugnummer>BA697</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>British Airways</Fluglinie>
+    <Maschine>A320 (G-EUYK)</Maschine>
+    <Status>Departed 11:34 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:35 AM</Time>
+    <Flugnummer>EI661</Flugnummer>
+    <To>Dublin (DUB)</To>
+    <Fluglinie>Aer Lingus</Fluglinie>
+    <Maschine>A320 (EI-DER)</Maschine>
+    <Status>Departed 11:41 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:40 AM</Time>
+    <Flugnummer>U21980</Flugnummer>
+    <To>Manchester (MAN)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A320 (G-EZPB)</Maschine>
+    <Status>Departed 11:39 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:00 PM</Time>
+    <Flugnummer>AB8726</Flugnummer>
+    <To>Rome (FCO)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNB)</Maschine>
+    <Status>Departed 12:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:10 PM</Time>
+    <Flugnummer>U25352</Flugnummer>
+    <To>London (LGW)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A319 (G-EZFA)</Maschine>
+    <Status>Departed 12:36 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:10 PM</Time>
+    <Flugnummer>OS123</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDD)</Maschine>
+    <Status>Departed 12:37 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:15 PM</Time>
+    <Flugnummer>U24732</Flugnummer>
+    <To>Berlin (SXF)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>A319 (G-EZGD)</Maschine>
+    <Status>Departed 12:15 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:15 PM</Time>
+    <Flugnummer>KL1846</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>KLM</Fluglinie>
+    <Maschine>B737 (PH-BGU)</Maschine>
+    <Status>Unknown </Status>
+  </Flug>
+  <Flug>
+    <Time>12:30 PM</Time>
+    <Flugnummer>IB3121</Flugnummer>
+    <To>Madrid (MAD)</To>
+    <Fluglinie>Iberia</Fluglinie>
+    <Maschine>A319 (EC-JDL)</Maschine>
+    <Status>Estimated dep. 12:30 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:35 PM</Time>
+    <Flugnummer>OS425</Flugnummer>
+    <To>Nice (NCE)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWL)</Maschine>
+    <Status>Departed 12:32 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:40 PM</Time>
+    <Flugnummer>OS359</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>E190 (OE-LWH)</Maschine>
+    <Status>Departed 12:38 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:40 PM</Time>
+    <Flugnummer>OS655</Flugnummer>
+    <To>Chisinau (KIV)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBW)</Maschine>
+    <Status>Departed 12:50 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:45 PM</Time>
+    <Flugnummer>OS727</Flugnummer>
+    <To>Podgorica (TGD)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGC)</Maschine>
+    <Status>Departed 1:01 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:45 PM</Time>
+    <Flugnummer>OS597</Flugnummer>
+    <To>Krakow (KRK)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGF)</Maschine>
+    <Status>Departed 12:57 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:45 PM</Time>
+    <Flugnummer>OS847</Flugnummer>
+    <To>Tirana (TIA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBL)</Maschine>
+    <Status>Departed 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS683</Flugnummer>
+    <To>Zagreb (ZAG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGA)</Maschine>
+    <Status>Departed 12:57 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS313</Flugnummer>
+    <To>Stockholm (ARN)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>E190 (OE-LWD)</Maschine>
+    <Status>Departed 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS785</Flugnummer>
+    <To>Sibiu (SBZ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:50 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS757</Flugnummer>
+    <To>Sarajevo (SJJ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBT)</Maschine>
+    <Status>Estimated dep. 12:50 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS741</Flugnummer>
+    <To>Kosice (KSC)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS707</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS905</Flugnummer>
+    <To>Innsbruck (INN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS773</Flugnummer>
+    <To>Belgrade (BEG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWG)</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:00 PM</Time>
+    <Flugnummer>OS415</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDA)</Maschine>
+    <Status>Estimated dep. 1:00 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:00 PM</Time>
+    <Flugnummer>OS623</Flugnummer>
+    <To>Warsaw (WAW)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFQ)</Maschine>
+    <Status>Departed 1:01 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:00 PM</Time>
+    <Flugnummer>SU2185</Flugnummer>
+    <To>Moscow (SVO)</To>
+    <Fluglinie>Aeroflot</Fluglinie>
+    <Maschine>A321 (VQ-BEF)</Maschine>
+    <Status>Estimated dep. 12:58 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS313</Flugnummer>
+    <To>Stockholm (ARN)</To>
+    <Fluglinie>Austrian Airlines (myAustrian Livery)</Fluglinie>
+    <Maschine>E190 (OE-LWD)</Maschine>
+    <Status>Departed 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS683</Flugnummer>
+    <To>Zagreb (ZAG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH8D (OE-LGA)</Maschine>
+    <Status>Departed 12:57 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS757</Flugnummer>
+    <To>Sarajevo (SJJ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A320 (OE-LBT)</Maschine>
+    <Status>Estimated dep. 12:50 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:50 PM</Time>
+    <Flugnummer>OS785</Flugnummer>
+    <To>Sibiu (SBZ)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:50 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS905</Flugnummer>
+    <To>Innsbruck (INN)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS773</Flugnummer>
+    <To>Belgrade (BEG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E190 (OE-LWG)</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS707</Flugnummer>
+    <To>Prague (PRG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>12:55 PM</Time>
+    <Flugnummer>OS741</Flugnummer>
+    <To>Kosice (KSC)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 12:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:00 PM</Time>
+    <Flugnummer>OS415</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDA)</Maschine>
+    <Status>Estimated dep. 1:00 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:00 PM</Time>
+    <Flugnummer>OS623</Flugnummer>
+    <To>Warsaw (WAW)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>F70 (OE-LFQ)</Maschine>
+    <Status>Departed 1:01 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:00 PM</Time>
+    <Flugnummer>SU2185</Flugnummer>
+    <To>Moscow (SVO)</To>
+    <Fluglinie>Aeroflot</Fluglinie>
+    <Maschine>A321 (VQ-BEF)</Maschine>
+    <Status>Estimated dep. 12:58 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:10 PM</Time>
+    <Flugnummer>LH1237</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>321</Maschine>
+    <Status>Estimated dep. 1:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:15 PM</Time>
+    <Flugnummer>PE103</Flugnummer>
+    <To>St. Gallen (ACH)</To>
+    <Fluglinie>People's Viennaline</Fluglinie>
+    <Maschine>E170 (OE-LMK)</Maschine>
+    <Status>Departed 12:59 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:15 PM</Time>
+    <Flugnummer>LG8856</Flugnummer>
+    <To>Luxembourg (LUX)</To>
+    <Fluglinie>Luxair</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 1:45 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:20 PM</Time>
+    <Flugnummer>LH2329</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines (Star Alliance Livery)</Fluglinie>
+    <Maschine>A320 (OE-LBZ)</Maschine>
+    <Status>Estimated dep. 1:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:30 PM</Time>
+    <Flugnummer>AB8437</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Air Berlin</Fluglinie>
+    <Maschine>320</Maschine>
+    <Status>Estimated dep. 1:30 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:30 PM</Time>
+    <Flugnummer>EW5812</Flugnummer>
+    <To>Hamburg (HAM)</To>
+    <Fluglinie>Eurowings</Fluglinie>
+    <Maschine>32A</Maschine>
+    <Status>Estimated dep. 1:30 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>2:10 PM</Time>
+    <Flugnummer>LH1239</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Lufthansa</Fluglinie>
+    <Maschine>32A</Maschine>
+    <Status>Estimated dep. 2:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>2:20 PM</Time>
+    <Flugnummer>TK1886</Flugnummer>
+    <To>Istanbul (IST)</To>
+    <Fluglinie>Turkish Airlines</Fluglinie>
+    <Maschine>A321 (TC-JRY)</Maschine>
+    <Status>Estimated dep. 2:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>2:25 PM</Time>
+    <Flugnummer>PC992</Flugnummer>
+    <To>Istanbul (SAW)</To>
+    <Fluglinie>Pegasus Airlines</Fluglinie>
+    <Maschine>A320 (TC-DCM)</Maschine>
+    <Status>Estimated dep. 2:25 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>2:40 PM</Time>
+    <Flugnummer>BA701</Flugnummer>
+    <To>London (LHR)</To>
+    <Fluglinie>British Airways</Fluglinie>
+    <Maschine>A320 (G-EUUR)</Maschine>
+    <Status>Estimated dep. 2:58 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>2:40 PM</Time>
+    <Flugnummer>LX1579</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Swiss</Fluglinie>
+    <Maschine>A320 (HB-IJP)</Maschine>
+    <Status>Estimated dep. 2:40 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>2:55 PM</Time>
+    <Flugnummer>EK128</Flugnummer>
+    <To>Dubai (DXB)</To>
+    <Fluglinie>Emirates</Fluglinie>
+    <Maschine>A388 (A6-EOO)</Maschine>
+    <Status>Estimated dep. 2:55 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:00 PM</Time>
+    <Flugnummer>TP1271</Flugnummer>
+    <To>Lisbon (LIS)</To>
+    <Fluglinie>TAP Portugal</Fluglinie>
+    <Maschine>A320 (CS-TMW)</Maschine>
+    <Status>Estimated dep. 3:00 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:00 PM</Time>
+    <Flugnummer>AB8756</Flugnummer>
+    <To>Milan (LIN)</To>
+    <Fluglinie>Air Berlin</Fluglinie>
+    <Maschine>319</Maschine>
+    <Status>Estimated dep. 3:00 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:00 PM</Time>
+    <Flugnummer>AB8409</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Niki</Fluglinie>
+    <Maschine>A319 (OE-LNC)</Maschine>
+    <Status>Estimated dep. 3:00 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>AF1739</Flugnummer>
+    <To>Paris (CDG)</To>
+    <Fluglinie>Air France</Fluglinie>
+    <Maschine>A321 (F-GTAM)</Maschine>
+    <Status>Estimated dep. 3:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>VY8711</Flugnummer>
+    <To>Barcelona (BCN)</To>
+    <Fluglinie>Vueling (Pepsi Max Livery)</Fluglinie>
+    <Maschine>A320 (EC-MEQ)</Maschine>
+    <Status>Estimated dep. 3:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>OS113</Flugnummer>
+    <To>Munich (MUC)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E95</Maschine>
+    <Status>Estimated dep. 3:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>OS353</Flugnummer>
+    <To>Brussels (BRU)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A319 (OE-LDB)</Maschine>
+    <Status>Estimated dep. 3:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>OS373</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>SunExpress Deutschland</Fluglinie>
+    <Maschine>B738 (D-ASXD)</Maschine>
+    <Status>Estimated dep. 3:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:10 PM</Time>
+    <Flugnummer>OS303</Flugnummer>
+    <To>Copenhagen (CPH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>320</Maschine>
+    <Status>Estimated dep. 3:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:10 PM</Time>
+    <Flugnummer>OS581</Flugnummer>
+    <To>Geneva (GVA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E95</Maschine>
+    <Status>Estimated dep. 3:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:10 PM</Time>
+    <Flugnummer>OS131</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>321</Maschine>
+    <Status>Estimated dep. 3:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:10 PM</Time>
+    <Flugnummer>AB8608</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Air Berlin</Fluglinie>
+    <Maschine>319</Maschine>
+    <Status>Estimated dep. 3:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS797</Flugnummer>
+    <To>Sofia (SOF)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>A321 (OE-LBF)</Maschine>
+    <Status>Estimated dep. 3:15 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS513</Flugnummer>
+    <To>Milan (MXP)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>320</Maschine>
+    <Status>Estimated dep. 3:15 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS293</Flugnummer>
+    <To>Berlin (TXL)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>320</Maschine>
+    <Status>Estimated dep. 3:15 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:15 PM</Time>
+    <Flugnummer>OS791</Flugnummer>
+    <To>Bucharest (OTP)</To>
+    <Fluglinie>Condor</Fluglinie>
+    <Maschine>A320 (D-AICG)</Maschine>
+    <Status>Estimated dep. 3:15 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:20 PM</Time>
+    <Flugnummer>EW5808</Flugnummer>
+    <To>Nurnberg (NUE)</To>
+    <Fluglinie>Eurowings</Fluglinie>
+    <Maschine>32A</Maschine>
+    <Status>Estimated dep. 3:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:20 PM</Time>
+    <Flugnummer>OS183</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>E95</Maschine>
+    <Status>Estimated dep. 3:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:20 PM</Time>
+    <Flugnummer>OS563</Flugnummer>
+    <To>Zurich (ZRH)</To>
+    <Fluglinie>Austrian Airlines</Fluglinie>
+    <Maschine>320</Maschine>
+    <Status>Estimated dep. 3:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:25 PM</Time>
+    <Flugnummer>EW1747</Flugnummer>
+    <To>Dusseldorf (DUS)</To>
+    <Fluglinie>Eurowings</Fluglinie>
+    <Maschine>32A</Maschine>
+    <Status>Estimated dep. 3:25 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:35 PM</Time>
+    <Flugnummer>4U753</Flugnummer>
+    <To>Cologne (CGN)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A320 (D-AIPT)</Maschine>
+    <Status>Estimated dep. 3:35 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:35 PM</Time>
+    <Flugnummer>PS848</Flugnummer>
+    <To>Kiev (KBP)</To>
+    <Fluglinie>Ukraine International Airlines</Fluglinie>
+    <Maschine>B733 (UR-GBA)</Maschine>
+    <Status>Estimated dep. 3:35 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:40 PM</Time>
+    <Flugnummer>TO3763</Flugnummer>
+    <To>Paris (ORY)</To>
+    <Fluglinie>Transavia France</Fluglinie>
+    <Maschine>B738 (F-GZHN)</Maschine>
+    <Status>Estimated dep. 3:40 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>4:10 PM</Time>
+    <Flugnummer>U27946</Flugnummer>
+    <To>Amsterdam (AMS)</To>
+    <Fluglinie>EasyJet</Fluglinie>
+    <Maschine>319</Maschine>
+    <Status>Estimated dep. 4:10 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>4:30 PM</Time>
+    <Flugnummer>4U2755</Flugnummer>
+    <To>Stuttgart (STR)</To>
+    <Fluglinie>Germanwings</Fluglinie>
+    <Maschine>A319 (D-AKNR)</Maschine>
+    <Status>Estimated dep. 4:30 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>4:30 PM</Time>
+    <Flugnummer>OZ795</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Asiana Airlines</Fluglinie>
+    <Maschine>74F</Maschine>
+    <Status>Scheduled </Status>
+  </Flug>
+  <Flug>
+    <Time>4:30 PM</Time>
+    <Flugnummer>OZ796</Flugnummer>
+    <To>Frankfurt (FRA)</To>
+    <Fluglinie>Asiana Airlines</Fluglinie>
+    <Maschine>74F</Maschine>
+    <Status>Scheduled </Status>
+  </Flug>
+  <Flug>
+    <Time>7:55 AM</Time>
+    <Flugnummer>AC8658</Flugnummer>
+    <To>Ottawa (YOW)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-GONJ)</Maschine>
+    <Status>Departed 8:18 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:15 AM</Time>
+    <Flugnummer>AC8642</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8D (C-GGAH)</Maschine>
+    <Status>Departed 9:56 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:30 AM</Time>
+    <Flugnummer>AC8644</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FGRP)</Maschine>
+    <Status>Departed 11:45 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:45 AM</Time>
+    <Flugnummer>AC8646</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FPON)</Maschine>
+    <Status>Departed 12:14 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>WS3508</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>WestJet Encore</Fluglinie>
+    <Maschine>DH8D (C-FQWE)</Maschine>
+    <Status>Departed 4:19 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:35 PM</Time>
+    <Flugnummer>AC8650</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8D (C-GGOY)</Maschine>
+    <Status>Departed 3:43 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>5:35 PM</Time>
+    <Flugnummer>AC8652</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-GONW)</Maschine>
+    <Status>Departed 5:48 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:05 PM</Time>
+    <Flugnummer>AC8660</Flugnummer>
+    <To>Ottawa (YOW)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-GONJ)</Maschine>
+    <Status>Departed 6:29 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 PM</Time>
+    <Flugnummer>AC8654</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FGRM)</Maschine>
+    <Status>Departed 7:26 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>8:45 PM</Time>
+    <Flugnummer>AC8656</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8D (C-GGOI)</Maschine>
+    <Status>Departed 9:54 PM Tuesday Dec 13 </Status>
+  </Flug>
+  <Flug>
+    <Time>12:00 AM</Time>
+    <Flugnummer>UJ196</Flugnummer>
+    <To>Detroit (YIP)</To>
+    <Fluglinie>AlMasria Universal Airlines</Fluglinie>
+    <Maschine>DC9</Maschine>
+    <Status>Unknown </Status>
+  </Flug>
+  <Flug>
+    <Time>6:15 AM</Time>
+    <Flugnummer>AC8640</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8D (C-GGOY)</Maschine>
+    <Status>Departed 6:23 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:15 AM</Time>
+    <Flugnummer>WS3504</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>WestJet Encore</Fluglinie>
+    <Maschine>DH8D (C-FSWE)</Maschine>
+    <Status>Departed 6:29 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:45 AM</Time>
+    <Flugnummer>WS567</Flugnummer>
+    <To>Calgary (YYC)</To>
+    <Fluglinie>Westjet</Fluglinie>
+    <Maschine>B738 (C-FYBK)</Maschine>
+    <Status>Departed 7:05 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:55 AM</Time>
+    <Flugnummer>AC8658</Flugnummer>
+    <To>Ottawa (YOW)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FGRC)</Maschine>
+    <Status>Estimated dep. 7:55 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>9:15 AM</Time>
+    <Flugnummer>AC8642</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Air Canada</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Estimated dep. 9:15 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>10:30 AM</Time>
+    <Flugnummer>AC8644</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FGRY)</Maschine>
+    <Status>Estimated dep. 10:30 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>11:45 AM</Time>
+    <Flugnummer>AC8646</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-GJMI)</Maschine>
+    <Status>Estimated dep. 11:45 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>1:20 PM</Time>
+    <Flugnummer>AC8648</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-GONO)</Maschine>
+    <Status>Estimated dep. 1:20 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:05 PM</Time>
+    <Flugnummer>WS3508</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>WestJet Encore</Fluglinie>
+    <Maschine>DH8D (C-FSWE)</Maschine>
+    <Status>Estimated dep. 3:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>3:35 PM</Time>
+    <Flugnummer>AC8650</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8D (C-GGOY)</Maschine>
+    <Status>Estimated dep. 3:35 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>5:35 PM</Time>
+    <Flugnummer>AC8652</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FGRY)</Maschine>
+    <Status>Estimated dep. 5:35 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:05 PM</Time>
+    <Flugnummer>AC8660</Flugnummer>
+    <To>Ottawa (YOW)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FGRC)</Maschine>
+    <Status>Estimated dep. 6:05 PM </Status>
+  </Flug>
+  <Flug>
+    <Time>7:15 PM</Time>
+    <Flugnummer>AC8654</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8A (C-FPON)</Maschine>
+    <Status>Estimated dep. 7:15 PM Wednesday Dec 14</Status>
+  </Flug>
+  <Flug>
+    <Time>6:15 AM</Time>
+    <Flugnummer>AC8640</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>Jazz Aviation</Fluglinie>
+    <Maschine>DH8D (C-GGOK)</Maschine>
+    <Status>Estimated dep. 6:15 AM </Status>
+  </Flug>
+  <Flug>
+    <Time>6:15 AM</Time>
+    <Flugnummer>WS3504</Flugnummer>
+    <To>Toronto (YYZ)</To>
+    <Fluglinie>WestJet</Fluglinie>
+    <Maschine>DH4</Maschine>
+    <Status>Scheduled </Status>
+  </Flug>
+  <Flug>
+    <Time>6:30 AM</Time>
+    <Flugnummer>UA5520</Flugnummer>
+    <To>Chicago (ORD)</To>
+    <Fluglinie>United Airlines</Fluglinie>
+    <Maschine>CRJ</Maschine>
+    <Status>Scheduled </Status>
+  </Flug>
+  <Flug>
+    <Time>6:45 AM</Time>
+    <Flugnummer>WS567</Flugnummer>
+    <To>Calgary (YYC)</To>
+    <Fluglinie>Westjet</Fluglinie>
+    <Maschine>B738 (C-GJWS)</Maschine>
+    <Status>Estimated dep. 6:45 AM</Status>
+  </Flug>
+</Departures>
