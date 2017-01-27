@@ -9,6 +9,8 @@ namespace ErstesProjekt_Flugverwaltung
     public class Arrival : Flug
     {
         private string from; 
+
+
         public Arrival(string time, string flugnummer, string fluglinie, Flugzeug maschine, string status, string from) : base(time, flugnummer, fluglinie, maschine, status)
         {
             From = from;
